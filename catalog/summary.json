@@ -1,8 +1,10 @@
 {
-  "document_count": 9033,
-  "source_count": 70,
-  "bytes": 390498513,
+  "document_count": 9035,
+  "source_count": 71,
+  "bytes": 390539681,
   "by_kind": {
+    "book_catalog": 1,
+    "book_quotes": 1,
     "company_shard": 33,
     "event_shard": 193,
     "founder_story": 2219,
@@ -68,6 +70,7 @@
     "elena-verna": 4,
     "cis-curated": 4,
     "stratechery": 3,
+    "book-catalog": 2,
     "nfx": 1,
     "companies-house": 1,
     "openbook-vc": 1,
@@ -113,6 +116,10 @@
       "corp-midsize": 145,
       "geo-enrichment": 2188,
       "events": 22021
+    },
+    "books": {
+      "catalog": 44,
+      "quotes": 22
     }
   }
 }

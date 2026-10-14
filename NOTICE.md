@@ -38,8 +38,19 @@ facts about companies:
 `fund-holdings` is derived from Form D. Many rows have unresolved names.
 That is a quality issue, not a rights issue.
 
+## Books
+
+[`BOOKS.md`](BOOKS.md) and `data/books/catalog.json` are a reading list:
+title, authors, why the book is in this corpus, and a link to Wikipedia,
+Open Library, or the author's page. `data/books/quotes.json` holds short
+excerpts (a sentence or two) for pattern work.
+
+We do not publish epub, fb2, or full-text dumps. We do not link to pirate
+mirrors. The quotes are brief; the books remain with their publishers.
+
 ## What we did not publish
 
-Full books and ebook dumps that were in the local cache. Those are still
-under copyright, and a research corpus does not need the complete text of
-*Beyond Order* sitting next to a YC talk.
+Full books from the local cache, including titles that are not about
+startups (psychotherapy novels, self-help outside this domain). A research
+corpus does not need the complete text of a commercial book sitting next
+to a YC talk.

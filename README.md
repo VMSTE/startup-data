@@ -4,7 +4,7 @@ A public corpus for people who want to study how startups and small businesses w
 
 The files were collected from YouTube, podcasts, founder interviews, and open company registers while building [VMSTE](https://vmste.org). This repo is the cleaned snapshot: sources named, duplicates dropped, catalogs written so you can query the set instead of walking 9,000 filenames.
 
-**[Sources](SOURCES.md)** | **[Catalog](catalog/summary.json)** | **[Cite](CITATION.cff)**
+**[Sources](SOURCES.md)** | **[Books](BOOKS.md)** | **[Catalog](catalog/summary.json)** | **[Cite](CITATION.cff)**
 
 ## What's in here
 
@@ -14,12 +14,13 @@ The files were collected from YouTube, podcasts, founder interviews, and open co
 | Podcast transcripts | 301 episodes (Indie Hackers, Practical Product) | Compare how bootstrapped founders talk about revenue and distribution |
 | Founder stories | 2,219 write-ups from Starter Story | Read how a business started, what it cost, what it earns |
 | Company tables | ~97k rows across 16 sources | Join a talk or story to YC batches, SEC Form D filings, events |
+| Book catalog | 44 titles, 22 short quotes | See what to read next, and which talks in this repo sit next to that book |
 
 The catalog at `catalog/documents.jsonl` is the index. Each row has `kind`, `source_id`, `title`, `url`, `path`, `topics`, and `date` when we have one.
 
 Sales-training channels (Sales Scripter, Cognism, Superhuman, Sales Miner, Patrick Dang) are the largest YouTube slice. Filter them out if you want operator talks rather than scripts. The denser strategy sets are smaller: Y Combinator, Paul Graham, Lenny's Podcast, First Round, a16z, Andrew Chen, flywheels / network effects.
 
-Full books are not in this repo. Those remain under copyright, so we left the files out.
+Full book files are not here. [`BOOKS.md`](BOOKS.md) is the reading list with Wikipedia / Open Library / author links. Short quotes live in `data/books/quotes.json`.
 
 ## Layout
 
@@ -33,6 +34,8 @@ data/
   transcripts/podcasts/<source>/
   founder-stories/starter-story/{stories,ideas}/
   companies/{yc-companies,sec-edgar,events,...}/
+  books/{catalog.json,quotes.json}
+BOOKS.md
 examples/quickstart.py
 SOURCES.md
 ```
@@ -75,7 +78,7 @@ Mostly English. A small Russian-language set lives under `yamalkevich` (founder 
 
 Sessions were downloaded as transcripts with YAML frontmatter (title, original URL, date, channel). We then:
 
-1. Dropped books, AI-coding workflow dumps, and a geopolitics channel that does not belong in a startup corpus.
+1. Dropped full ebook files, AI-coding workflow dumps, and a geopolitics channel that does not belong in a startup corpus. The books remain as a catalog plus short quotes.
 2. Merged duplicate YouTube sessions (retry folders, re-downloads of the same talks).
 3. Deduped by YouTube video id (123 repeats removed).
 4. Folded Starter Story "ideas" into stories when the slug already existed (1,473 overlaps).

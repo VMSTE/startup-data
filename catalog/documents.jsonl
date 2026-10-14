@@ -9031,3 +9031,5 @@
 {"id": "5412872637bf8a65", "kind": "event_shard", "source_id": "events", "title": "Events 2026-03", "url": null, "path": "data/companies/events/2026-03.ndjson", "language": "en", "topics": ["timeline"], "bytes": 2138670}
 {"id": "61d27db4a6bbf81e", "kind": "event_shard", "source_id": "events", "title": "Events 2026-04", "url": null, "path": "data/companies/events/2026-04.ndjson", "language": "en", "topics": ["timeline"], "bytes": 757955}
 {"id": "7224413e76e952b1", "kind": "event_shard", "source_id": "events", "title": "Events test-seed", "url": null, "path": "data/companies/events/test-seed.ndjson", "language": "en", "topics": ["timeline"], "bytes": 1998}
+{"id": "data:books:catalog.json", "kind": "book_catalog", "source_id": "book-catalog", "title": "Book catalog", "url": null, "path": "data/books/catalog.json", "language": "en", "topics": ["books", "reading-list"], "bytes": 29015}
+{"id": "data:books:quotes.json", "kind": "book_quotes", "source_id": "book-catalog", "title": "Book quotes", "url": null, "path": "data/books/quotes.json", "language": "en", "topics": ["books", "quotes"], "bytes": 12153}

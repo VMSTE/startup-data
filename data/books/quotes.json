@@ -1,0 +1,178 @@
+[
+  {
+    "id": "zero-to-one:motivation:1",
+    "book_id": "zero-to-one",
+    "theme": "motivation",
+    "text": "Делая то, что уже умеем делать, мы двигаем мир от единицы к двойке... Но всякий раз, когда мы создаём что-то своё, мы делаем шаг от нуля к единице.",
+    "citation": "Предисловие, «От нуля к единице»",
+    "year": 2014
+  },
+  {
+    "id": "zero-to-one:view-of-company:2",
+    "book_id": "zero-to-one",
+    "theme": "view-of-company",
+    "text": "В основе любого великого бизнеса лежит секрет, скрытый от внешнего мира. Великая компания — это заговор ради изменения мира, и, когда вы делитесь этим секретом, узнавший его становится вашим товарищем-заговорщиком.",
+    "citation": "Глава 8, «Секреты»",
+    "year": 2014
+  },
+  {
+    "id": "how-to-sell-anything:motivation:1",
+    "book_id": "how-to-sell-anything",
+    "theme": "motivation",
+    "text": "Всякий раз, когда я смотрел на него, единственным, что я видел, было то, чего мне хотелось от него. А хотелось мне большой сумки с продуктами, чтобы накормить мою семью.",
+    "citation": "гл. «Желание», о первой продаже",
+    "year": 1977
+  },
+  {
+    "id": "how-to-sell-anything:law-of-250:2",
+    "book_id": "how-to-sell-anything",
+    "theme": "law-of-250",
+    "text": "У каждого есть в жизни 250 человек, которые достаточно важны для него, чтобы пригласить их на свадьбу или на похороны, — 250! ...Закон двухсот пятидесяти, открытый Джирардом, — это самая важная вещь, которую вы можете узнать от меня.",
+    "citation": "гл. «Закон 250»",
+    "year": 1977
+  },
+  {
+    "id": "hormozi-100m-offers:value-equation:1",
+    "book_id": "hormozi-100m-offers",
+    "theme": "value-equation",
+    "text": "Those who understand value are the ones who will be able to charge the most money for their services. The good news is that there is a repeatable formula that I have created (I've never seen it displayed elsewhere) to help quantify the variables that create value for any offer. I call it The Value Equation.",
+    "citation": "Ch. 6, «Value Offer: The Value Equation»",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:value-equation-formula:2",
+    "book_id": "hormozi-100m-offers",
+    "theme": "value-equation-formula",
+    "text": "Our goal as marketers and business owners is to increase the value of the dream outcome and its perceived likelihood of achievement, while decreasing the time delay of achievement and the effort and sacrifice one has to put in to get there.",
+    "citation": "Ch. 6, «Value Equation», «Putting It All Together»",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:perception-reality:3",
+    "book_id": "hormozi-100m-offers",
+    "theme": "perception-reality",
+    "text": "Perception is reality... The Grand Slam Offer only becomes valuable once the prospect perceives the increase in likelihood of achievement, perceives the decrease in time delay, and perceives the decrease in effort and sacrifice.",
+    "citation": "Ch. 6, «Value Equation», «Perception is Reality»",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:grand-slam-offer:4",
+    "book_id": "hormozi-100m-offers",
+    "theme": "grand-slam-offer",
+    "text": "This book is about how to make profitable offers. Specifically, how to reliably turn advertising dollars into (enormous) profits using a combination of pricing, value, guarantees, and naming strategies. I call the proper combination of these components: a Grand Slam Offer.",
+    "citation": "Ch. 1, introduction; Ch. 2 «Grand Slam Offers»",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:grand-slam-offer-value:5",
+    "book_id": "hormozi-100m-offers",
+    "theme": "grand-slam-offer-value",
+    "text": "A business does the same work in both cases (with a commoditized or a Grand Slam Offer). The fulfillment is the same. But if one business uses a Grand Slam Offer and another uses a «commodity» offer, the Grand Slam Offer makes that business appear as if it has a totally different product — and that means a value-driven, versus price-driven, purchase.",
+    "citation": "Ch. 2, «Grand Slam Offers»",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:grand-slam-offer-thesis:6",
+    "book_id": "hormozi-100m-offers",
+    "theme": "grand-slam-offer-thesis",
+    "text": "Having a Grand Slam offer makes it almost impossible to lose. In short, having a Grand Slam Offer helps with all three of the requirements for growth: getting more customers, getting them to pay more, and getting them to do so more times.",
+    "citation": "Ch. 2, «Grand Slam Offers»",
+    "year": 2021
+  },
+  {
+    "id": "influence:reciprocity:1",
+    "book_id": "influence",
+    "theme": "reciprocity",
+    "text": "Правило взаимного обмена и сопровождающее его чувство признательности широко распространены в человеческой культуре. После интенсивных исследований социологи, например Элвин Гуднер, могут заявить, что нет такого общества людей, где бы не существовало такого правила.",
+    "citation": "гл. «Правило взаимного обмена» (рус. перевод; оригинал: Influence, Principle of Reciprocity)",
+    "year": 2010
+  },
+  {
+    "id": "influence:commitment-consistency:2",
+    "book_id": "influence",
+    "theme": "commitment-consistency",
+    "text": "Жажда быть (и выглядеть) последовательным представляет собой чрезвычайно мощное средство социального влияния, часто заставляющее нас действовать явно вопреки собственным интересам.",
+    "citation": "гл. «Обязательство и последовательность» (рус. перевод; Commitment & Consistency)",
+    "year": 2010
+  },
+  {
+    "id": "influence:social-proof:3",
+    "book_id": "influence",
+    "theme": "social-proof",
+    "text": "Обычно считается, что если какие-то действия выполняются большим количеством людей, это правильно. Эта особенность принципа социального доказательства – одновременно его главная сила и главная слабость.",
+    "citation": "гл. «Социальное доказательство» (рус. перевод; Social Proof)",
+    "year": 2010
+  },
+  {
+    "id": "influence:authority:4",
+    "book_id": "influence",
+    "theme": "authority",
+    "text": "Именно потому, что как только признанный авторитет отдает приказ, подчиненные перестают думать и начинают действовать автоматически.",
+    "citation": "гл. «Авторитет» (рус. перевод; Authority)",
+    "year": 2010
+  },
+  {
+    "id": "influence:liking:5",
+    "book_id": "influence",
+    "theme": "liking",
+    "text": "Мало кто удивится, что охотнее всего мы удовлетворяем просьбы тех, кого знаем и любим. Однако удивительно, что это простое правило самыми разными способами используют абсолютно незнакомые нам люди, чтобы с его помощью заставить нас выполнить их просьбы.",
+    "citation": "гл. «Благорасположение» (рус. перевод; Liking)",
+    "year": 2010
+  },
+  {
+    "id": "influence:scarcity:6",
+    "book_id": "influence",
+    "theme": "scarcity",
+    "text": "Я столкнулся с принципом дефицита – суть которого в том, что возможности кажутся нам более ценными, когда их доступность ограничена.",
+    "citation": "гл. «Дефицит» (рус. перевод; Scarcity)",
+    "year": 2010
+  },
+  {
+    "id": "hormozi-100m-offers:value-equation-components:7",
+    "book_id": "hormozi-100m-offers",
+    "theme": "value-equation-components",
+    "text": "There are four primary drivers of value. Two of the drivers (on top), you will seek to increase. The other two (on the bottom), you will seek to decrease: The Dream Outcome (Goal: Increase), Perceived Likelihood of Achievement (Goal: Increase), Perceived Time Delay Between Start and Achievement (Goal: Decrease), Perceived Effort & Sacrifice (Goal: Decrease).",
+    "citation": "Ch. 6, «Value Offer: The Value Equation» — enumerate the four drivers",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:value-equation-division:8",
+    "book_id": "hormozi-100m-offers",
+    "theme": "value-equation-division",
+    "text": "The reason this is a division equation and not an addition is that I wanted to convey one key point. If you can make the bottom part of the equation equal to zero, you're golden. No matter how small the top side is, anything divided by zero equals infinity. In other words, if you can reduce your prospects' true time delay to receiving value to zero... and your effort and sacrifice is zero, you have an infinitely valuable product.",
+    "citation": "Ch. 6, «Value Offer: The Value Equation» — why the formula divides",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:dream-outcome:9",
+    "book_id": "hormozi-100m-offers",
+    "theme": "dream-outcome",
+    "text": "The dream outcome is the expression of the feelings and experiences the prospect has envisioned in their mind. It's the gap between their current reality and their dreams. Our goal is to accurately depict that dream back to them, so they feel understood, and explain how our vehicle will get them there.",
+    "citation": "Ch. 6, «Value Offer: The Value Equation» — driver #1 (Increase)",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:perceived-likelihood:10",
+    "book_id": "hormozi-100m-offers",
+    "theme": "perceived-likelihood",
+    "text": "Then I realized people pay for certainty. They value certainty. I call this \"the perceived likelihood of achievement.\" In other words, \"How likely do I believe it is that I will achieve the result I am looking for if I make this purchase?\"",
+    "citation": "Ch. 6, «Value Offer: The Value Equation» — driver #2 (Increase)",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:time-delay:11",
+    "book_id": "hormozi-100m-offers",
+    "theme": "time-delay",
+    "text": "Time delay is the time between a client buying and receiving the promised benefit. The shorter the distance between when they purchase and they receive value/the outcome, the more valuable your services or product is.",
+    "citation": "Ch. 6, «Value Offer: The Value Equation» — driver #3 (Decrease)",
+    "year": 2021
+  },
+  {
+    "id": "hormozi-100m-offers:effort-sacrifice:12",
+    "book_id": "hormozi-100m-offers",
+    "theme": "effort-sacrifice",
+    "text": "This is what it \"costs\" people in ancillary costs, aka \"other costs accrued along the way.\" These can be both tangible and intangible.",
+    "citation": "Ch. 6, «Value Offer: The Value Equation» — driver #4 (Decrease)",
+    "year": 2021
+  }
+]

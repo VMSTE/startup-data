@@ -36,6 +36,14 @@ def main() -> None:
         sample = first[0]
         print(f"  e.g. {sample.get('name')} - {sample.get('description', '')[:80]}")
 
+    books = json.loads((ROOT / "data" / "books" / "catalog.json").read_text(encoding="utf-8"))
+    quotes = json.loads((ROOT / "data" / "books" / "quotes.json").read_text(encoding="utf-8"))
+    print(f"\n{len(books)} books in the catalog, {len(quotes)} quotes")
+    nfx = [b for b in books if "network-effects" in b.get("topics", [])]
+    print("network-effects books:")
+    for b in nfx:
+        print(f"  - {b['title']} ({b['year']})")
+
 
 if __name__ == "__main__":
     main()

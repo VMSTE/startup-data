@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "zero-to-one",
+    "title": "Zero to One",
+    "title_ru": "От нуля к единице",
+    "authors": [
+      "Peter Thiel",
+      "Blake Masters"
+    ],
+    "year": 2014,
+    "topics": [
+      "startups",
+      "monopoly",
+      "secrets"
+    ],
+    "why": "Thiel's case for doing something new instead of scaling a copy. Useful next to the YC and a16z talks when you want the monopoly argument in one place.",
+    "related_source_ids": [
+      "ycombinator",
+      "paul-graham",
+      "a16z"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Zero_to_One",
+      "open_library": "https://openlibrary.org/search?q=Zero+to+One+Thiel"
+    },
+    "quote_count": 2
+  },
+  {
+    "id": "lean-startup",
+    "title": "The Lean Startup",
+    "title_ru": "Бизнес с нуля",
+    "authors": [
+      "Eric Ries"
+    ],
+    "year": 2011,
+    "topics": [
+      "validation",
+      "mvp",
+      "early-stage"
+    ],
+    "why": "Build-measure-learn as a loop. The default vocabulary for 'don't scale a ghost' in this corpus.",
+    "related_source_ids": [
+      "ycombinator",
+      "custdev-momtest",
+      "custdev-yc"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Lean_Startup",
+      "open_library": "https://openlibrary.org/search?q=The+Lean+Startup+Ries"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "hard-thing-about-hard-things",
+    "title": "The Hard Thing About Hard Things",
+    "title_ru": "Легко не будет",
+    "authors": [
+      "Ben Horowitz"
+    ],
+    "year": 2014,
+    "topics": [
+      "operating",
+      "ceo",
+      "wartime"
+    ],
+    "why": "The ugly middle: firing, peacetime vs wartime CEO, not dying. Pair with First Round and SaaStr operating talks.",
+    "related_source_ids": [
+      "firstround",
+      "a16z",
+      "saastr"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Hard_Thing_About_Hard_Things",
+      "open_library": "https://openlibrary.org/search?q=Hard+Thing+About+Hard+Things+Horowitz"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "cold-start-problem",
+    "title": "The Cold Start Problem",
+    "title_ru": "Проблема холодного старта",
+    "authors": [
+      "Andrew Chen"
+    ],
+    "year": 2021,
+    "topics": [
+      "network-effects",
+      "marketplaces",
+      "growth"
+    ],
+    "why": "How a network gets its first users and then does not stall. The book behind the Andrew Chen / NFX / flywheel talks already in the transcript set.",
+    "related_source_ids": [
+      "andrew-chen",
+      "nfx",
+      "flywheel-founders"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=The+Cold+Start+Problem+Andrew+Chen",
+      "author": "https://andrewchen.com/the-cold-start-problem/"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "blitzscaling",
+    "title": "Blitzscaling",
+    "title_ru": "Блиц-масштабирование",
+    "authors": [
+      "Reid Hoffman",
+      "Chris Yeh"
+    ],
+    "year": 2018,
+    "topics": [
+      "scale",
+      "growth",
+      "hiring"
+    ],
+    "why": "When to prioritize speed over efficiency. The flywheel-founders session already has the Stanford blitzscaling lectures; this is the book form.",
+    "related_source_ids": [
+      "flywheel-founders",
+      "ycombinator"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Blitzscaling",
+      "open_library": "https://openlibrary.org/search?q=Blitzscaling+Hoffman"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "crossing-the-chasm",
+    "title": "Crossing the Chasm",
+    "title_ru": "Преодоление пропасти",
+    "authors": [
+      "Geoffrey A. Moore"
+    ],
+    "year": 1991,
+    "topics": [
+      "gtm",
+      "early-adopters",
+      "b2b"
+    ],
+    "why": "Why a product that delights enthusiasts still dies in the mainstream. Still the map for B2B category passage.",
+    "related_source_ids": [
+      "april-dunford",
+      "lochhead",
+      "productled"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Crossing_the_Chasm",
+      "open_library": "https://openlibrary.org/search?q=Crossing+the+Chasm+Moore"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "innovators-dilemma",
+    "title": "The Innovator's Dilemma",
+    "title_ru": "Дилемма инноватора",
+    "authors": [
+      "Clayton M. Christensen"
+    ],
+    "year": 1997,
+    "topics": [
+      "disruption",
+      "incumbents",
+      "strategy"
+    ],
+    "why": "Why good companies miss the next curve. Read it as a warning about listening only to today's best customers.",
+    "related_source_ids": [
+      "stratechery",
+      "a16z"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma",
+      "open_library": "https://openlibrary.org/search?q=Innovators+Dilemma+Christensen"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "hooked",
+    "title": "Hooked",
+    "title_ru": "На крючке",
+    "authors": [
+      "Nir Eyal"
+    ],
+    "year": 2014,
+    "topics": [
+      "habits",
+      "product",
+      "growth"
+    ],
+    "why": "Trigger-action-reward-investment. The habit loop that sits under a lot of consumer growth talk in the flywheel set.",
+    "related_source_ids": [
+      "flywheel-founders",
+      "brian-balfour"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Hooked_(book)",
+      "open_library": "https://openlibrary.org/search?q=Hooked+Nir+Eyal"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "contagious",
+    "title": "Contagious",
+    "title_ru": "Заразительный",
+    "authors": [
+      "Jonah Berger"
+    ],
+    "year": 2013,
+    "topics": [
+      "distribution",
+      "word-of-mouth",
+      "growth"
+    ],
+    "why": "Why some things get talked about. STEPPS as a checklist, not as a growth department.",
+    "related_source_ids": [
+      "flywheel-founders",
+      "garyvee"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Contagious:_Why_Things_Catch_On",
+      "open_library": "https://openlibrary.org/search?q=Contagious+Jonah+Berger"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "hacking-growth",
+    "title": "Hacking Growth",
+    "title_ru": "Взлом роста",
+    "authors": [
+      "Sean Ellis",
+      "Morgan Brown"
+    ],
+    "year": 2017,
+    "topics": [
+      "growth",
+      "loops",
+      "experimentation"
+    ],
+    "why": "The growth-team version of build-measure-learn. Pair with Brian Balfour and Elena Verna talks.",
+    "related_source_ids": [
+      "brian-balfour",
+      "elena-verna",
+      "flywheel-founders"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=Hacking+Growth+Sean+Ellis"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "platform-revolution",
+    "title": "Platform Revolution",
+    "title_ru": "Революция платформ",
+    "authors": [
+      "Geoffrey G. Parker",
+      "Marshall W. Van Alstyne",
+      "Sangeet Paul Choudary"
+    ],
+    "year": 2016,
+    "topics": [
+      "platforms",
+      "network-effects",
+      "marketplaces"
+    ],
+    "why": "How multi-sided markets create and capture value. Complements Chen and NFX on the economics, not the cold-start tactics.",
+    "related_source_ids": [
+      "andrew-chen",
+      "nfx",
+      "stratechery"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=Platform+Revolution+Parker"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "hormozi-100m-offers",
+    "title": "$100M Offers",
+    "title_ru": "$100M Offers",
+    "authors": [
+      "Alex Hormozi"
+    ],
+    "year": 2021,
+    "topics": [
+      "offers",
+      "pricing",
+      "gtm"
+    ],
+    "why": "Value equation, grand-slam offer, guarantees. The densest offer-crafting book in the set; the Hormozi talks repeat it out loud.",
+    "related_source_ids": [
+      "hormozi"
+    ],
+    "links": {
+      "author": "https://www.acquisition.com/training/offers",
+      "open_library": "https://openlibrary.org/search?q=100M+Offers+Hormozi"
+    },
+    "quote_count": 12
+  },
+  {
+    "id": "influence",
+    "title": "Influence",
+    "title_ru": "Психология влияния",
+    "authors": [
+      "Robert Cialdini"
+    ],
+    "year": 1984,
+    "topics": [
+      "persuasion",
+      "sales",
+      "psychology"
+    ],
+    "why": "Reciprocity, commitment, social proof, authority, liking, scarcity. The shared language under a lot of the sales-training slice.",
+    "related_source_ids": [
+      "hormozi",
+      "girard",
+      "sales-scripter"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Influence:_The_Psychology_of_Persuasion",
+      "open_library": "https://openlibrary.org/search?q=Influence+Cialdini"
+    },
+    "quote_count": 6
+  },
+  {
+    "id": "mom-test",
+    "title": "The Mom Test",
+    "title_ru": "Спроси маму",
+    "authors": [
+      "Rob Fitzpatrick"
+    ],
+    "year": 2013,
+    "topics": [
+      "custdev",
+      "interviews",
+      "validation"
+    ],
+    "why": "How to talk to users without fooling yourself. The custdev-momtest session is the talk form of this book.",
+    "related_source_ids": [
+      "custdev-momtest",
+      "custdev-yc",
+      "indie-hackers"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Mom_Test",
+      "author": "https://www.momtestbook.com/"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "spin-selling",
+    "title": "SPIN Selling",
+    "title_ru": "SPIN-продажи",
+    "authors": [
+      "Neil Rackham"
+    ],
+    "year": 1988,
+    "topics": [
+      "sales",
+      "discovery",
+      "enterprise"
+    ],
+    "why": "Situation-Problem-Implication-Need-payoff. Older than MEDDICC, still the discovery spine a lot of B2B teams use.",
+    "related_source_ids": [
+      "meddicc",
+      "markroberge",
+      "sales-patrickdang"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/SPIN_selling",
+      "open_library": "https://openlibrary.org/search?q=SPIN+Selling+Rackham"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "challenger-sale",
+    "title": "The Challenger Sale",
+    "title_ru": "Чемпионы продаж",
+    "authors": [
+      "Matthew Dixon",
+      "Brent Adamson"
+    ],
+    "year": 2011,
+    "topics": [
+      "sales",
+      "enterprise",
+      "teaching"
+    ],
+    "why": "Teach, tailor, take control. The alternative to relationship-only selling in complex B2B.",
+    "related_source_ids": [
+      "meddicc",
+      "saastr",
+      "markroberge"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Challenger_Sale",
+      "open_library": "https://openlibrary.org/search?q=Challenger+Sale+Dixon"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "fanatical-prospecting",
+    "title": "Fanatical Prospecting",
+    "title_ru": "Фанатичные продажи",
+    "authors": [
+      "Jeb Blount"
+    ],
+    "year": 2015,
+    "topics": [
+      "sales",
+      "outbound",
+      "prospecting"
+    ],
+    "why": "Volume and cadence of outbound. Explains the sales-scripter / Cognism slice better than those clips explain themselves.",
+    "related_source_ids": [
+      "sales-cognism",
+      "sales-scripter",
+      "aaronross"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=Fanatical+Prospecting+Blount"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "how-to-sell-anything",
+    "title": "How to Sell Anything to Anybody",
+    "title_ru": "Как продать что угодно кому угодно",
+    "authors": [
+      "Joe Girard"
+    ],
+    "year": 1977,
+    "topics": [
+      "sales",
+      "referrals",
+      "classic"
+    ],
+    "why": "Law of 250, follow-up, treating every buyer as a future referral. The girard talks are this book spoken.",
+    "related_source_ids": [
+      "girard"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/How_to_Sell_Anything_to_Anybody",
+      "open_library": "https://openlibrary.org/search?q=How+to+Sell+Anything+to+Anybody+Girard"
+    },
+    "quote_count": 2
+  },
+  {
+    "id": "good-strategy-bad-strategy",
+    "title": "Good Strategy/Bad Strategy",
+    "title_ru": "Хорошая стратегия, плохая стратегия",
+    "authors": [
+      "Richard Rumelt"
+    ],
+    "year": 2011,
+    "topics": [
+      "strategy",
+      "diagnosis",
+      "kernel"
+    ],
+    "why": "Diagnosis, guiding policy, coherent action. The cleanest test for whether a 'strategy' is just a list of goals.",
+    "related_source_ids": [
+      "stratechery",
+      "lochhead"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Good_Strategy/Bad_Strategy",
+      "open_library": "https://openlibrary.org/search?q=Good+Strategy+Bad+Strategy+Rumelt"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "playing-to-win",
+    "title": "Playing to Win",
+    "title_ru": "Игра на победу",
+    "authors": [
+      "A.G. Lafley",
+      "Roger L. Martin"
+    ],
+    "year": 2013,
+    "topics": [
+      "strategy",
+      "where-to-play",
+      "how-to-win"
+    ],
+    "why": "The five strategy questions from P&G. Useful when a founder story never names a where-to-play choice.",
+    "related_source_ids": [
+      "april-dunford",
+      "lochhead"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=Playing+to+Win+Lafley+Martin"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "blue-ocean-strategy",
+    "title": "Blue Ocean Strategy",
+    "title_ru": "Стратегия голубого океана",
+    "authors": [
+      "W. Chan Kim",
+      "Renée Mauborgne"
+    ],
+    "year": 2005,
+    "topics": [
+      "strategy",
+      "category-design",
+      "competition"
+    ],
+    "why": "Value innovation and making a market instead of joining one. Overlap with Lochhead's category design talks.",
+    "related_source_ids": [
+      "lochhead",
+      "april-dunford"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Blue_Ocean_Strategy",
+      "open_library": "https://openlibrary.org/search?q=Blue+Ocean+Strategy+Kim"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "competitive-strategy",
+    "title": "Competitive Strategy",
+    "title_ru": "Конкурентная стратегия",
+    "authors": [
+      "Michael E. Porter"
+    ],
+    "year": 1980,
+    "topics": [
+      "strategy",
+      "industry",
+      "five-forces"
+    ],
+    "why": "Five forces and generic strategies. The industry-structure baseline everything later either uses or argues with.",
+    "related_source_ids": [
+      "stratechery"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Competitive_Strategy",
+      "open_library": "https://openlibrary.org/search?q=Competitive+Strategy+Porter"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "only-the-paranoid-survive",
+    "title": "Only the Paranoid Survive",
+    "title_ru": "Выживают только параноики",
+    "authors": [
+      "Andrew S. Grove"
+    ],
+    "year": 1996,
+    "topics": [
+      "inflection",
+      "operating",
+      "intel"
+    ],
+    "why": "Strategic inflection points from the Intel years. How an operator notices the ground moving.",
+    "related_source_ids": [
+      "firstround",
+      "a16z"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Only_the_Paranoid_Survive",
+      "open_library": "https://openlibrary.org/search?q=Only+the+Paranoid+Survive+Grove"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "art-of-strategy",
+    "title": "The Art of Strategy",
+    "title_ru": "Стратегические игры",
+    "authors": [
+      "Avinash K. Dixit",
+      "Barry J. Nalebuff"
+    ],
+    "year": 2008,
+    "topics": [
+      "game-theory",
+      "strategy",
+      "negotiation"
+    ],
+    "why": "Game theory for people who run businesses, not for exam questions. Complements Voss on the other side of a negotiation.",
+    "related_source_ids": [
+      "chris-voss"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=The+Art+of+Strategy+Dixit+Nalebuff"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "venture-deals",
+    "title": "Venture Deals",
+    "title_ru": "Venture Deals",
+    "authors": [
+      "Brad Feld",
+      "Jason Mendelson"
+    ],
+    "year": 2011,
+    "topics": [
+      "venture",
+      "term-sheets",
+      "fundraising"
+    ],
+    "why": "How a term sheet is built. Pair with the Brad Feld talks and 20VC fundraising interviews.",
+    "related_source_ids": [
+      "brad-feld",
+      "20vc",
+      "ycombinator"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=Venture+Deals+Feld+Mendelson",
+      "author": "https://www.venturedeals.com/"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "intelligent-investor",
+    "title": "The Intelligent Investor",
+    "title_ru": "Разумный инвестор",
+    "authors": [
+      "Benjamin Graham"
+    ],
+    "year": 1949,
+    "topics": [
+      "investing",
+      "value",
+      "margin-of-safety"
+    ],
+    "why": "Mr. Market and margin of safety. In this corpus it is background for how operators talk about not overpaying, not a trading manual.",
+    "related_source_ids": [
+      "dalio"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Intelligent_Investor",
+      "open_library": "https://openlibrary.org/search?q=The+Intelligent+Investor+Graham"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "buffett-essays",
+    "title": "The Essays of Warren Buffett",
+    "title_ru": "Эссе Уоррена Баффетта",
+    "authors": [
+      "Warren Buffett",
+      "Lawrence A. Cunningham"
+    ],
+    "year": 1997,
+    "topics": [
+      "investing",
+      "capital-allocation",
+      "governance"
+    ],
+    "why": "Capital allocation in plain language. Useful next to Thorndike's Outsiders.",
+    "related_source_ids": [],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Essays_of_Warren_Buffett",
+      "open_library": "https://openlibrary.org/search?q=Essays+of+Warren+Buffett+Cunningham"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "little-book-that-beats-the-market",
+    "title": "The Little Book That Beats the Market",
+    "title_ru": "Маленькая книга победителя рынка акций",
+    "authors": [
+      "Joel Greenblatt"
+    ],
+    "year": 2005,
+    "topics": [
+      "investing",
+      "magic-formula",
+      "value"
+    ],
+    "why": "A simple quality-plus-cheap screen. In the set as a foil to venture storytelling: some capital is allocated by formula.",
+    "related_source_ids": [],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Book_That_Beats_the_Market",
+      "open_library": "https://openlibrary.org/search?q=Little+Book+That+Beats+the+Market+Greenblatt"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "why-nations-fail",
+    "title": "Why Nations Fail",
+    "title_ru": "Почему одни страны богатые, а другие бедные",
+    "authors": [
+      "Daron Acemoglu",
+      "James A. Robinson"
+    ],
+    "year": 2012,
+    "topics": [
+      "institutions",
+      "markets",
+      "trust"
+    ],
+    "why": "Inclusive vs extractive institutions. Context for CIS / low-trust market conversations, not a startup playbook.",
+    "related_source_ids": [
+      "kunal-shah",
+      "yamalkevich"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Why_Nations_Fail",
+      "open_library": "https://openlibrary.org/search?q=Why+Nations+Fail+Acemoglu"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "mystery-of-capital",
+    "title": "The Mystery of Capital",
+    "title_ru": "Загадка капитала",
+    "authors": [
+      "Hernando de Soto"
+    ],
+    "year": 2000,
+    "topics": [
+      "property",
+      "informal-economy",
+      "institutions"
+    ],
+    "why": "Why assets that people already use still cannot become capital. Same regional lens as Why Nations Fail.",
+    "related_source_ids": [
+      "kunal-shah"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Mystery_of_Capital",
+      "open_library": "https://openlibrary.org/search?q=Mystery+of+Capital+de+Soto"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "five-dysfunctions",
+    "title": "The Five Dysfunctions of a Team",
+    "title_ru": "Пять пороков команды",
+    "authors": [
+      "Patrick Lencioni"
+    ],
+    "year": 2002,
+    "topics": [
+      "teams",
+      "trust",
+      "management"
+    ],
+    "why": "Trust, conflict, commitment, accountability, results. The Lencioni talks in the transcript set are this model repeated.",
+    "related_source_ids": [
+      "lencioni"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team",
+      "open_library": "https://openlibrary.org/search?q=Five+Dysfunctions+of+a+Team+Lencioni"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "measure-what-matters",
+    "title": "Measure What Matters",
+    "title_ru": "Измеряйте самое важное",
+    "authors": [
+      "John Doerr"
+    ],
+    "year": 2018,
+    "topics": [
+      "okrs",
+      "management",
+      "goals"
+    ],
+    "why": "OKRs as Intel and Google used them. How a company says what this quarter is for.",
+    "related_source_ids": [
+      "ycombinator",
+      "firstround"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Measure_What_Matters",
+      "open_library": "https://openlibrary.org/search?q=Measure+What+Matters+Doerr"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "principles",
+    "title": "Principles",
+    "title_ru": "Принципы. Жизнь и работа",
+    "authors": [
+      "Ray Dalio"
+    ],
+    "year": 2017,
+    "topics": [
+      "decision-making",
+      "management",
+      "culture"
+    ],
+    "why": "Idea meritocracy and pain-plus-reflection. The dalio talks are the short form.",
+    "related_source_ids": [
+      "dalio"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Principles_(book)",
+      "open_library": "https://openlibrary.org/search?q=Principles+Ray+Dalio"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "team-of-teams",
+    "title": "Team of Teams",
+    "title_ru": "Команда команд",
+    "authors": [
+      "Stanley McChrystal"
+    ],
+    "year": 2015,
+    "topics": [
+      "org-design",
+      "trust",
+      "decentralization"
+    ],
+    "why": "Shared consciousness and empowered execution. How a large org still moves when the map changes weekly.",
+    "related_source_ids": [
+      "lencioni"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Team_of_Teams",
+      "open_library": "https://openlibrary.org/search?q=Team+of+Teams+McChrystal"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "turn-the-ship-around",
+    "title": "Turn the Ship Around!",
+    "title_ru": "Разверните ваш корабль",
+    "authors": [
+      "L. David Marquet"
+    ],
+    "year": 2012,
+    "topics": [
+      "leadership",
+      "intent",
+      "navy"
+    ],
+    "why": "Leader-leader instead of leader-follower. Intent-based execution from a submarine, mapped onto company teams.",
+    "related_source_ids": [
+      "lencioni"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Turn_the_Ship_Around!",
+      "open_library": "https://openlibrary.org/search?q=Turn+the+Ship+Around+Marquet"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "no-rules-rules",
+    "title": "No Rules Rules",
+    "title_ru": "Никаких правил",
+    "authors": [
+      "Reed Hastings",
+      "Erin Meyer"
+    ],
+    "year": 2020,
+    "topics": [
+      "culture",
+      "netflix",
+      "talent"
+    ],
+    "why": "Density of talent, candor, and the keeper test. One company's culture written as an operating system.",
+    "related_source_ids": [
+      "flywheel-founders"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/No_Rules_Rules",
+      "open_library": "https://openlibrary.org/search?q=No+Rules+Rules+Hastings"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "toyota-way",
+    "title": "The Toyota Way",
+    "title_ru": "Дао Toyota",
+    "authors": [
+      "Jeffrey K. Liker"
+    ],
+    "year": 2004,
+    "topics": [
+      "operations",
+      "lean",
+      "quality"
+    ],
+    "why": "The 14 principles behind Toyota production. Operations craft, not a startup origin story.",
+    "related_source_ids": [],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Toyota_Way",
+      "open_library": "https://openlibrary.org/search?q=The+Toyota+Way+Liker"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "outsiders",
+    "title": "The Outsiders",
+    "title_ru": "Аутсайдеры / Правила лучших CEO",
+    "authors": [
+      "William N. Thorndike"
+    ],
+    "year": 2012,
+    "topics": [
+      "capital-allocation",
+      "ceo",
+      "compounding"
+    ],
+    "why": "Eight CEOs judged by capital allocation, not charisma. A different success metric than blitzscaling.",
+    "related_source_ids": [],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=The+Outsiders+Thorndike"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "shoe-dog",
+    "title": "Shoe Dog",
+    "title_ru": "Продавец обуви",
+    "authors": [
+      "Phil Knight"
+    ],
+    "year": 2016,
+    "topics": [
+      "memoir",
+      "brand",
+      "cash"
+    ],
+    "why": "Nike's early years as a cash and distribution problem. A founder memoir that is more useful on working capital than on slogans.",
+    "related_source_ids": [
+      "acquired"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Shoe_Dog",
+      "open_library": "https://openlibrary.org/search?q=Shoe+Dog+Phil+Knight"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "alibaba-world",
+    "title": "Alibaba's World",
+    "title_ru": "Alibaba. История мирового восхождения от первого лица",
+    "authors": [
+      "Porter Erisman"
+    ],
+    "year": 2015,
+    "topics": [
+      "memoir",
+      "china",
+      "platforms"
+    ],
+    "why": "An insider account of Alibaba before the IPO. Regional case, not a US SaaS playbook.",
+    "related_source_ids": [
+      "acquired"
+    ],
+    "links": {
+      "open_library": "https://openlibrary.org/search?q=Alibaba%27s+World+Erisman"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "design-of-everyday-things",
+    "title": "The Design of Everyday Things",
+    "title_ru": "Дизайн привычных вещей",
+    "authors": [
+      "Don Norman"
+    ],
+    "year": 1988,
+    "topics": [
+      "product",
+      "ux",
+      "affordances"
+    ],
+    "why": "Affordances, signifiers, error. Why a product feels obvious or hostile, independent of growth loops.",
+    "related_source_ids": [
+      "productled"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things",
+      "open_library": "https://openlibrary.org/search?q=Design+of+Everyday+Things+Norman"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "thinking-in-bets",
+    "title": "Thinking in Bets",
+    "title_ru": "Принцип ставок",
+    "authors": [
+      "Annie Duke"
+    ],
+    "year": 2018,
+    "topics": [
+      "decision-making",
+      "uncertainty",
+      "poker"
+    ],
+    "why": "Resulting vs decision quality. A founder-facing way to talk about bets without pretending the outcome was knowable.",
+    "related_source_ids": [
+      "dalio"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Thinking_in_Bets",
+      "open_library": "https://openlibrary.org/search?q=Thinking+in+Bets+Annie+Duke"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "predictably-irrational",
+    "title": "Predictably Irrational",
+    "title_ru": "Предсказуемая иррациональность",
+    "authors": [
+      "Dan Ariely"
+    ],
+    "year": 2008,
+    "topics": [
+      "psychology",
+      "pricing",
+      "behavior"
+    ],
+    "why": "How people misjudge price, relativity, and free. Background for offer and pricing talk.",
+    "related_source_ids": [
+      "hormozi",
+      "profitwell"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Predictably_Irrational",
+      "open_library": "https://openlibrary.org/search?q=Predictably+Irrational+Ariely"
+    },
+    "quote_count": 0
+  },
+  {
+    "id": "antifragile",
+    "title": "Antifragile",
+    "title_ru": "Антихрупкость",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "year": 2012,
+    "topics": [
+      "uncertainty",
+      "optionality",
+      "risk"
+    ],
+    "why": "Systems that gain from disorder. In this corpus it is a lens on optionality, not a market-timing guide.",
+    "related_source_ids": [
+      "dalio"
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Antifragile",
+      "open_library": "https://openlibrary.org/search?q=Antifragile+Taleb"
+    },
+    "quote_count": 0
+  }
+]

@@ -779,5 +779,18 @@
     "description": "A timeline of public signals (YC batch, recognition, and similar) keyed to company ids. Join to yc-companies and sec-edgar.",
     "origin": "derived from the company sources above",
     "license_note": "Derived from public records."
+  },
+  "book-catalog": {
+    "id": "book-catalog",
+    "kind": "books",
+    "name": "Book catalog",
+    "description": "Reading list of startup and business books that sat in the local cache. Catalog and short quotes only; full files are not in the repo. Links go to Wikipedia, Open Library, or the author's page.",
+    "topics": [
+      "books",
+      "strategy",
+      "reading-list"
+    ],
+    "language": "en",
+    "homepage": "https://github.com/VMSTE/startup-data/blob/main/BOOKS.md"
   }
 }

@@ -2,7 +2,7 @@
 
 Every file in `data/` points back to an original page, video, or public register. This page is the human index: who each source is, why it is in the set, and what it is good for.
 
-Counts below are files in `catalog/documents.jsonl` for talks, podcasts, and stories. For company tables they are rows inside the JSON shards.
+Counts below are files in `catalog/documents.jsonl` for talks, podcasts, and stories. For company tables they are rows inside the JSON shards. Books are listed in [`BOOKS.md`](BOOKS.md).
 
 ## Talks and interviews (YouTube and adjacent writing)
 
@@ -571,3 +571,13 @@ Origin: https://techcrunch.com. Headlines and links; full articles stay on TechC
 UK registered companies relevant to the collection: names, locations, and status from the public register.
 
 Origin: https://www.gov.uk/government/organisations/companies-house. UK Open Government Licence.
+
+## Books
+
+### Book catalog
+
+`book-catalog` | 44 titles, 22 quotes | en
+
+Reading list of startup and business books that sat in the local cache. Catalog and short quotes only; full files are not in the repo. Each entry says why the book is here and points at Wikipedia, Open Library, or the author's page. Several entries name the related talk sessions in this corpus (Chen, Hormozi, Lencioni, Fitzpatrick, and others).
+
+The human index is [`BOOKS.md`](BOOKS.md). Machine files: `data/books/catalog.json`, `data/books/quotes.json`.
