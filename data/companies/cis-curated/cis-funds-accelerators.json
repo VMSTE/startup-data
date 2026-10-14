@@ -1,0 +1,18 @@
+[
+  {"name":"ФРИИ (IIDF)","region":"Russia, Moscow","niche":"VC, Accelerator","description":"[RU] Крупнейший Russian VC — 450+ deals, 50+ exits, focus on IT/SaaS (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Skolkovo Foundation","region":"Russia, Moscow","niche":"Innovation Hub, VC","description":"[RU] 5,000+ resident startups, 5 clusters (IT, Energy, Nuclear, Bio, Space) (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Runa Capital","region":"Russia, Moscow; Luxembourg","niche":"VC, Deep Tech","description":"[RU] Global VC, $200M+ AUM, focus on infra/dev tools/AI (Active)","stage":"series-a","source":"cis-curated"},
+  {"name":"Almaz Capital","region":"Russia; US","niche":"VC, Tech","description":"[RU] CIS/US VC bridge, early-stage tech investments (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"Leta Capital","region":"Russia, Moscow","niche":"VC, SaaS, B2B","description":"[RU] B2B SaaS focus, $50M+ AUM, CIS + global portfolio (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"Sistema VC (Sistema_VC)","region":"Russia, Moscow","niche":"CVC, Multi-sector","description":"[RU] Corporate VC arm of AFK Sistema, $100M+ deployed (Active)","stage":"series-a","source":"cis-curated"},
+  {"name":"Baring Vostok","region":"Russia, Moscow","niche":"VC/PE, Tech","description":"[RU] Largest PE in CIS, early Yandex/Avito investor (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Horizon Capital","region":"Ukraine, Kyiv","niche":"PE/VC, Tech","description":"[UA] Largest PE in Ukraine, $850M+ AUM, tech focus (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"AVentures Capital","region":"Ukraine, Kyiv","niche":"VC, Tech","description":"[UA] Ukrainian VC, invested in Grammarly, People.ai, Preply (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"Genesis Investments","region":"Ukraine, Kyiv","niche":"VC, Consumer Tech","description":"[UA] Genesis holding VC arm — BetterMe, Headway, Boosters (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"TA Ventures","region":"Ukraine, Kyiv","niche":"VC, Fintech","description":"[UA] Ukrainian VC, fintech/AI focus, $50M+ deployed (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"Astana Hub","region":"Kazakhstan, Nur-Sultan","niche":"Accelerator, IT Park","description":"[KZ] Kazakhstan national IT hub, 1,000+ residents, tax benefits (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"MOST Ventures","region":"Kazakhstan, Almaty","niche":"VC, Accelerator","description":"[KZ] Kazakhstan's largest VC/accelerator, 100+ portfolio companies (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"Sturgeon Capital","region":"Central Asia","niche":"VC, Frontier Markets","description":"[CA] Central Asia focused VC — KZ, UZ, GE (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"500 Global (CIS)","region":"CIS","niche":"Accelerator, VC","description":"[CIS] 500 Startups regional program for CIS companies (Active)","stage":"pre-seed","source":"cis-curated"},
+  {"name":"YC (CIS alumni)","region":"CIS","niche":"Accelerator","description":"[CIS] Notable CIS alumni: GitLab, Grammarly, Petcube, Preply, Reface (Active)","stage":"seed","source":"cis-curated"}
+]

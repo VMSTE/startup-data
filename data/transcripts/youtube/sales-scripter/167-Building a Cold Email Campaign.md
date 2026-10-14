@@ -1,0 +1,2453 @@
+---
+source: https://www.youtube.com/watch?v=nAh4rlJH8MY
+title: Building a Cold Email Campaign
+author: Sales Scripter
+date: 2022-10-27
+views: 709
+description: >-
+  Building a Cold Email Campaign
+
+
+  Here is a link the Video 1 in the cold email workshop series -
+  https://youtu.be/RyzNIhJt2hY
+
+
+  If you want to purchase the Cold Email Jumpstart package, go here
+  https://salesscripter.com/members/signup/jumpstart
+
+
+  You can download these slides here
+  https://salesscripter.com/building-a-cold-email-campaign/
+
+
+  Here is a link to the full SMART Sales System training program -
+  https://youtube.com/playlist?list=PLoUVJsDQgZIIDinZ2l865qEhABzjBrndf
+
+
+  Here is a link to the SMART Sales System book -
+  https://www.amazon.com/dp/0578615762 
+
+
+  Get free ebooks on our website here https://salesscripter.com/ebooks/
+
+
+  Get more information on SalesScripter at www.salesscripter.com 
+
+
+  Get daily sales tips by following us here:
+
+
+  Instagram https://www.instagram.com/salesscripter/
+
+  Facebook https://www.facebook.com/SalesScripter/
+
+  Twitter https://twitter.com/SalesScripter
+
+  LinkedIn https://www.linkedin.com/in/mhalper/
+
+  Join our email tips list here http://ow.ly/UWRaW
+
+
+  #BuildingaColdEmailCampaign
+tags:
+  - Building a Cold Email Campaign
+  - cold email
+  - cold emailing new clients
+  - cold email to get clients
+  - cold email marketing
+  - how to cold email clients
+  - email marketing
+  - cold email scripts
+  - cold email templates
+  - how to write cold emails
+  - cold email prospecting
+  - cold email subject line
+  - cold email tactics
+  - cold email strategy
+  - cold email tips
+  - cold email marketing strategy
+  - how to cold email to get clients
+  - cold email follow up
+  - cold email outreach template
+extraction_method: youtube-transcript
+grabbed_at: 2026-04-04T21:15:40.224Z
+---
+
+# Building a Cold Email Campaign
+
+## 00:00 - 30:00
+
+Now, in the last video, we went through
+
+## 30:00 - 85:00
+
+a step-by-step process to create a sales
+
+## 85:00 - 125:00
+
+message. And each of these steps allows
+
+## 125:00 - 160:00
+
+us to create what we would refer to as
+
+## 160:00 - 205:00
+
+building blocks. And now, in this video,
+
+## 205:00 - 250:00
+
+we can use each of those building blocks
+
+## 250:00 - 290:00
+
+to create individual cold email
+
+## 290:00 - 325:00
+
+messages. And we can string those
+
+## 325:00 - 370:00
+
+together to create a cold email
+
+## 370:00 - 405:00
+
+campaign. Now, as I mentioned in the
+
+## 405:00 - 445:00
+
+last video, we're actually going to use
+
+## 445:00 - 500:00
+
+Sales Scriptor to create this cold email
+
+## 500:00 - 535:00
+
+campaign because in Sales Scriptor, we
+
+## 535:00 - 580:00
+
+have an area to create and put all of
+
+## 580:00 - 610:00
+
+our answers from that sales message,
+
+## 610:00 - 645:00
+
+which is the sales message builder. Then
+
+## 645:00 - 680:00
+
+there's an area here for all of our
+
+## 680:00 - 715:00
+
+sales messages. And here's a sales
+
+## 715:00 - 745:00
+
+message, the smart sales system for
+
+## 745:00 - 780:00
+
+sales trainers. And this is where we
+
+## 780:00 - 815:00
+
+have all of the answers that we created
+
+## 815:00 - 865:00
+
+in the last cold email workshop. And the
+
+## 865:00 - 900:00
+
+great thing about doing this in sales
+
+## 900:00 - 935:00
+
+scriptor is that sales scriptor has a
+
+## 935:00 - 975:00
+
+sales playbook. And one of the folders
+
+## 975:00 - 1005:00
+
+in the sales playbook is email
+
+## 1005:00 - 1045:00
+
+templates. And this is a library of
+
+## 1045:00 - 1090:00
+
+email templates that fill in with your
+
+## 1090:00 - 1125:00
+
+sales message. And what we actually have
+
+## 1125:00 - 1165:00
+
+here is we have individual cold email
+
+## 1165:00 - 1200:00
+
+messages. But we also have what are
+
+## 1200:00 - 1245:00
+
+called cold email threads, which is a
+
+## 1245:00 - 1290:00
+
+series of the individual cold emails
+
+## 1290:00 - 1340:00
+
+tied together into a series that we can
+
+## 1340:00 - 1375:00
+
+use as a cold email campaign. And
+
+## 1375:00 - 1410:00
+
+there's actually one created using all
+
+## 1410:00 - 1445:00
+
+of the individual building blocks using
+
+## 1445:00 - 1480:00
+
+the value, the pain points, the customer
+
+## 1480:00 - 1510:00
+
+example, the questions, product building
+
+## 1510:00 - 1545:00
+
+block, and the last attempt email. And
+
+## 1545:00 - 1580:00
+
+if I just click on this, here is that
+
+## 1580:00 - 1620:00
+
+cold email campaign. Now, all of these
+
+## 1620:00 - 1665:00
+
+emails are generated and created by the
+
+## 1665:00 - 1695:00
+
+software using all of our different
+
+## 1695:00 - 1735:00
+
+answers. Now, certainly this gives us a
+
+## 1735:00 - 1765:00
+
+huge head start because we don't have to
+
+## 1765:00 - 1795:00
+
+create all these individual emails, but
+
+## 1795:00 - 1830:00
+
+these emails aren't perfect because they
+
+## 1830:00 - 1865:00
+
+are generated by software. So, we need
+
+## 1865:00 - 1895:00
+
+to make sure they look okay. And the
+
+## 1895:00 - 1930:00
+
+software generated templates might
+
+## 1930:00 - 1960:00
+
+include some text that we want to trim
+
+## 1960:00 - 1990:00
+
+out. There might be some stuff that we
+
+## 1990:00 - 2025:00
+
+want to include that the software didn't
+
+## 2025:00 - 2050:00
+
+put in. So, what we're going to do is
+
+## 2050:00 - 2070:00
+
+we're going to take all of these
+
+## 2070:00 - 2100:00
+
+individual emails and we're going to
+
+## 2100:00 - 2130:00
+
+tweak them a bit. And we probably want
+
+## 2130:00 - 2165:00
+
+to add a couple emails to this series
+
+## 2165:00 - 2200:00
+
+that the software doesn't include. So,
+
+## 2200:00 - 2220:00
+
+what I'm going to do is I'm going to
+
+## 2220:00 - 2265:00
+
+flip back over to the PowerPoint slides.
+
+## 2265:00 - 2305:00
+
+And what I've done is I've created a
+
+## 2305:00 - 2345:00
+
+slide for each of those emails. And I've
+
+## 2345:00 - 2380:00
+
+done this for a couple reasons. First of
+
+## 2380:00 - 2425:00
+
+all, I've colorcoded the email templates
+
+## 2425:00 - 2460:00
+
+so that you can see where all of the
+
+## 2460:00 - 2495:00
+
+different answers are being filled in.
+
+## 2495:00 - 2525:00
+
+And there's a key on the right side
+
+## 2525:00 - 2560:00
+
+which tells you what the color coding
+
+## 2560:00 - 2600:00
+
+refers to. So this allows you to create
+
+## 2600:00 - 2635:00
+
+these templates on your own and fill in
+
+## 2635:00 - 2670:00
+
+with your own information. But what I'm
+
+## 2670:00 - 2710:00
+
+also going to do on these slides is show
+
+## 2710:00 - 2755:00
+
+you the changes that I've made to these
+
+## 2755:00 - 2805:00
+
+email templates. So email one is what we
+
+## 2805:00 - 2845:00
+
+would refer to as the value message. And
+
+## 2845:00 - 2885:00
+
+so this message just out of the gate
+
+## 2885:00 - 2935:00
+
+focuses on the value that we can deliver
+
+## 2935:00 - 2970:00
+
+to the target audience. So, as we go
+
+## 2970:00 - 3000:00
+
+through these emails, I also want to
+
+## 3000:00 - 3040:00
+
+sort of outline some of the key
+
+## 3040:00 - 3080:00
+
+philosophies that we incorporate with
+
+## 3080:00 - 3125:00
+
+our cold emails and with our cold email
+
+## 3125:00 - 3160:00
+
+campaigns. And one of the first key
+
+## 3160:00 - 3200:00
+
+thoughts that I want to point out is
+
+## 3200:00 - 3225:00
+
+that one thing we're trying to
+
+## 3225:00 - 3260:00
+
+accomplish with our cold emails and our
+
+## 3260:00 - 3305:00
+
+cold email campaigns is that yes, we
+
+## 3305:00 - 3335:00
+
+want to get the prospect to open our
+
+## 3335:00 - 3380:00
+
+email, to read our email, and it would
+
+## 3380:00 - 3420:00
+
+be great if they replied. But before we
+
+## 3420:00 - 3460:00
+
+try to accomplish that, one thing we
+
+## 3460:00 - 3495:00
+
+focus on with our approach is to
+
+## 3495:00 - 3535:00
+
+minimize how quickly the prospect
+
+## 3535:00 - 3575:00
+
+instantly deletes our email. If we can
+
+## 3575:00 - 3620:00
+
+just accomplish that, that is a huge
+
+## 3620:00 - 3660:00
+
+step forward. And these emails are
+
+## 3660:00 - 3700:00
+
+designed to accomplish that in two
+
+## 3700:00 - 3730:00
+
+different ways. First of all, the
+
+## 3730:00 - 3780:00
+
+majority of these emails try to minimize
+
+## 3780:00 - 3825:00
+
+how much we look like a salesperson
+
+## 3825:00 - 3865:00
+
+that's trying to sell a product. And one
+
+## 3865:00 - 3900:00
+
+way that this email does that in
+
+## 3900:00 - 3935:00
+
+particular is you'll notice that we talk
+
+## 3935:00 - 3975:00
+
+very little about the product that is
+
+## 3975:00 - 4025:00
+
+being sold. This email focuses instead
+
+## 4025:00 - 4075:00
+
+on the value that we can deliver to the
+
+## 4075:00 - 4130:00
+
+target audience. In fact, we talk very
+
+## 4130:00 - 4160:00
+
+little about the product and the
+
+## 4160:00 - 4195:00
+
+company. Now certainly there is a chance
+
+## 4195:00 - 4230:00
+
+where we trigger some curiosity on the
+
+## 4230:00 - 4265:00
+
+prospect's side where they want to know
+
+## 4265:00 - 4295:00
+
+how we deliver these improvements or
+
+## 4295:00 - 4325:00
+
+what the heck we're talking about. And
+
+## 4325:00 - 4370:00
+
+we will certainly include a link to our
+
+## 4370:00 - 4420:00
+
+company or our business's website in our
+
+## 4420:00 - 4460:00
+
+email signature. And we assume that just
+
+## 4460:00 - 4505:00
+
+about all prospects know to go to our
+
+## 4505:00 - 4540:00
+
+email signature and click on our website
+
+## 4540:00 - 4580:00
+
+link if they are curious enough to learn
+
+## 4580:00 - 4610:00
+
+more about us and what we're talking
+
+## 4610:00 - 4650:00
+
+about and what we ultimately sell. Now,
+
+## 4650:00 - 4690:00
+
+another way that we try to decrease the
+
+## 4690:00 - 4740:00
+
+instant delete rate is by being as brief
+
+## 4740:00 - 4790:00
+
+as possible in our cold email messages.
+
+## 4790:00 - 4820:00
+
+I think all of us can just about agree
+
+## 4820:00 - 4870:00
+
+that if you send an extremely long email
+
+## 4870:00 - 4905:00
+
+message, a prospect will see all of
+
+## 4905:00 - 4935:00
+
+those words and all of those paragraphs
+
+## 4935:00 - 4980:00
+
+and instantly delete that based on being
+
+## 4980:00 - 5020:00
+
+lazy and just the word count alone.
+
+## 5020:00 - 5065:00
+
+Well, if we agree on that logic, then if
+
+## 5065:00 - 5105:00
+
+we decrease the word count, we can
+
+## 5105:00 - 5145:00
+
+decrease how quickly they are to
+
+## 5145:00 - 5185:00
+
+instantly delete the email message. So,
+
+## 5185:00 - 5225:00
+
+if you look at this email, this is an
+
+## 5225:00 - 5265:00
+
+extremely economical email in terms of
+
+## 5265:00 - 5310:00
+
+word count. We have combed over these
+
+## 5310:00 - 5350:00
+
+email templates again and again looking
+
+## 5350:00 - 5390:00
+
+for any word that we can delete. And we
+
+## 5390:00 - 5420:00
+
+would recommend you do the same for your
+
+## 5420:00 - 5460:00
+
+email messages. If you type out an email
+
+## 5460:00 - 5495:00
+
+that you want to send, read that email
+
+## 5495:00 - 5540:00
+
+again and again and look for any word or
+
+## 5540:00 - 5570:00
+
+sentence that you can get rid of while
+
+## 5570:00 - 5600:00
+
+still communicating the message you want
+
+## 5600:00 - 5630:00
+
+to get across. Now, this template here
+
+## 5630:00 - 5665:00
+
+that's laid out, this is the exact
+
+## 5665:00 - 5700:00
+
+template that's generated by the Sales
+
+## 5700:00 - 5725:00
+
+Scriptor software. And so what it
+
+## 5725:00 - 5760:00
+
+basically does is you can see in purple
+
+## 5760:00 - 5795:00
+
+it inserts your target audience and then
+
+## 5795:00 - 5830:00
+
+the bullet points are the benefits that
+
+## 5830:00 - 5865:00
+
+you can deliver to that target audience.
+
+## 5865:00 - 5915:00
+
+It uses the first benefit as the subject
+
+## 5915:00 - 5965:00
+
+line which we feel is a pretty good way
+
+## 5965:00 - 6005:00
+
+for you to go about communicating to the
+
+## 6005:00 - 6040:00
+
+person that you're emailing the general
+
+## 6040:00 - 6080:00
+
+domain that you have something to offer
+
+## 6080:00 - 6125:00
+
+and also not sounding like a product
+
+## 6125:00 - 6160:00
+
+pushing salesperson that's trying to
+
+## 6160:00 - 6185:00
+
+sell something. And then after the
+
+## 6185:00 - 6230:00
+
+bullet points is a soft takeaway where
+
+## 6230:00 - 6275:00
+
+you express doubt whether or not the
+
+## 6275:00 - 6310:00
+
+prospect needs the improvements that you
+
+## 6310:00 - 6340:00
+
+have to offer. So this is an optional
+
+## 6340:00 - 6390:00
+
+tactic that you can use to decrease a
+
+## 6390:00 - 6420:00
+
+little guardedness on the prospect's
+
+## 6420:00 - 6470:00
+
+side and present yourself as not someone
+
+## 6470:00 - 6510:00
+
+who's pushed their product on everybody
+
+## 6510:00 - 6540:00
+
+that they talk to and everybody that
+
+## 6540:00 - 6570:00
+
+they email. And then the last sentence
+
+## 6570:00 - 6615:00
+
+goes for the close, which is closing for
+
+## 6615:00 - 6660:00
+
+talking more in the form of a call or an
+
+## 6660:00 - 6695:00
+
+appointment. And so we feel pretty good
+
+## 6695:00 - 6730:00
+
+about this email template. It doesn't
+
+## 6730:00 - 6770:00
+
+really necessarily tell the whole story.
+
+## 6770:00 - 6805:00
+
+And that's fine because we're going to
+
+## 6805:00 - 6845:00
+
+continue to email the target prospect
+
+## 6845:00 - 6890:00
+
+and continue to explain our story, tell
+
+## 6890:00 - 6930:00
+
+our story over a number of emails. So,
+
+## 6930:00 - 6960:00
+
+we're just trying to educate the
+
+## 6960:00 - 7000:00
+
+prospect in this first email on how we
+
+## 7000:00 - 7045:00
+
+help other people that are similar to
+
+## 7045:00 - 7080:00
+
+the target prospect. Now, since this is
+
+## 7080:00 - 7120:00
+
+a software generated cold email
+
+## 7120:00 - 7150:00
+
+template, we do want to make a few
+
+## 7150:00 - 7200:00
+
+changes. We want to slightly modify that
+
+## 7200:00 - 7230:00
+
+subject line. We want to just kind of
+
+## 7230:00 - 7270:00
+
+tweak the way it's phrased a little bit.
+
+## 7270:00 - 7300:00
+
+So, if you're using these templates in
+
+## 7300:00 - 7330:00
+
+Sales Scriptor, we certainly recommend
+
+## 7330:00 - 7360:00
+
+that you just kind of review the subject
+
+## 7360:00 - 7400:00
+
+lines and maybe tweak them a little bit.
+
+## 7400:00 - 7430:00
+
+The other thing that we did is that we
+
+## 7430:00 - 7470:00
+
+included a sentence at the end which is
+
+## 7470:00 - 7510:00
+
+here is an ebook on objection handling
+
+## 7510:00 - 7540:00
+
+you might find helpful and there's a
+
+## 7540:00 - 7585:00
+
+link to a free ebook. Now a few things
+
+## 7585:00 - 7620:00
+
+about this sentence. First of all the
+
+## 7620:00 - 7650:00
+
+main reason why we include this sentence
+
+## 7650:00 - 7685:00
+
+is because when we send out these emails
+
+## 7685:00 - 7730:00
+
+we can track opens and clicks. So with
+
+## 7730:00 - 7780:00
+
+that, what we want to do in as many of
+
+## 7780:00 - 7815:00
+
+the emails as possible, we want to
+
+## 7815:00 - 7855:00
+
+include a link for the prospect to click
+
+## 7855:00 - 7895:00
+
+on so that we can view who's clicking on
+
+## 7895:00 - 7930:00
+
+links and who's engaging with our emails
+
+## 7930:00 - 7965:00
+
+because then when we follow up with
+
+## 7965:00 - 8000:00
+
+calls, we're going to call the prospects
+
+## 8000:00 - 8035:00
+
+that are clicking on links first. Those
+
+## 8035:00 - 8065:00
+
+are going to be our highest quality
+
+## 8065:00 - 8095:00
+
+prospects and the first people that we
+
+## 8095:00 - 8130:00
+
+call. So now, the other thing about the
+
+## 8130:00 - 8170:00
+
+link is that you could include a link to
+
+## 8170:00 - 8210:00
+
+a lot of different things. This link in
+
+## 8210:00 - 8260:00
+
+this email is what you would consider an
+
+## 8260:00 - 8305:00
+
+example of providing value to the target
+
+## 8305:00 - 8350:00
+
+audience. If you include a link to your
+
+## 8350:00 - 8380:00
+
+product that you're trying to sell, that
+
+## 8380:00 - 8420:00
+
+would be an example of taking value.
+
+## 8420:00 - 8455:00
+
+You're trying to send the prospect to
+
+## 8455:00 - 8490:00
+
+your information so that you can try to
+
+## 8490:00 - 8515:00
+
+talk to them about what you're trying to
+
+## 8515:00 - 8550:00
+
+sell to them. This is an example of
+
+## 8550:00 - 8585:00
+
+giving value. You're sharing helpful
+
+## 8585:00 - 8620:00
+
+information because this is an ebook
+
+## 8620:00 - 8650:00
+
+that is not trying to sell anything.
+
+## 8650:00 - 8680:00
+
+This is an ebook that's designed to
+
+## 8680:00 - 8710:00
+
+provide tips and to help the target
+
+## 8710:00 - 8755:00
+
+audience. So, this link is giving value
+
+## 8755:00 - 8790:00
+
+and enticing the prospect to click on
+
+## 8790:00 - 8820:00
+
+something. And then those that click
+
+## 8820:00 - 8855:00
+
+will provide us valuable prospecting
+
+## 8855:00 - 8890:00
+
+data that is very actionable when we're
+
+## 8890:00 - 8935:00
+
+doing our follow-up calls. Okay. And
+
+## 8935:00 - 8985:00
+
+email number two uses our pain points
+
+## 8985:00 - 9020:00
+
+building block. This email basically
+
+## 9020:00 - 9060:00
+
+uses a lot of the same logic that we
+
+## 9060:00 - 9095:00
+
+just went through. It's very brief in
+
+## 9095:00 - 9135:00
+
+terms of word count. It uses your pain
+
+## 9135:00 - 9170:00
+
+points as the bullet points. The
+
+## 9170:00 - 9215:00
+
+software automatically uses the first
+
+## 9215:00 - 9260:00
+
+painoint as the subject line and the
+
+## 9260:00 - 9305:00
+
+soft takeaway and the close is exactly
+
+## 9305:00 - 9335:00
+
+the same. So, if you agree with the
+
+## 9335:00 - 9380:00
+
+logic and design of the first email, you
+
+## 9380:00 - 9415:00
+
+should probably like this email because
+
+## 9415:00 - 9460:00
+
+it's basically exactly the same. It just
+
+## 9460:00 - 9495:00
+
+comes at it from the other angle. The
+
+## 9495:00 - 9535:00
+
+first email focuses on improvements we
+
+## 9535:00 - 9580:00
+
+can deliver to the target audience. And
+
+## 9580:00 - 9630:00
+
+this email focuses on the problems that
+
+## 9630:00 - 9675:00
+
+we can resolve or the problems that the
+
+## 9675:00 - 9710:00
+
+target audience might have. So the hope
+
+## 9710:00 - 9745:00
+
+here is that if we've composed good
+
+## 9745:00 - 9790:00
+
+improvements and good problems that our
+
+## 9790:00 - 9815:00
+
+target audience might either be
+
+## 9815:00 - 9850:00
+
+interested in or problems that they may
+
+## 9850:00 - 9885:00
+
+have, we're increasing the odds of
+
+## 9885:00 - 9910:00
+
+communicating something that strikes a
+
+## 9910:00 - 9950:00
+
+chord with them, grabs their attention,
+
+## 9950:00 - 9980:00
+
+builds a little interest. Now, just like
+
+## 9980:00 - 10015:00
+
+the previous email, we want to make a a
+
+## 10015:00 - 10050:00
+
+minor modification to the software
+
+## 10050:00 - 10085:00
+
+generated template, and that is just to
+
+## 10085:00 - 10120:00
+
+insert a similar link. And so, in this
+
+## 10120:00 - 10150:00
+
+email, we're going to do a similar link
+
+## 10150:00 - 10190:00
+
+to another ebook. This is our dos and
+
+## 10190:00 - 10225:00
+
+don'ts of cold calling ebook. And there
+
+## 10225:00 - 10260:00
+
+is a link for the prospect to get that.
+
+## 10260:00 - 10280:00
+
+Actually, something I didn't mention
+
+## 10280:00 - 10310:00
+
+earlier, I want to just talk about the
+
+## 10310:00 - 10360:00
+
+link that's inserted here. When I insert
+
+## 10360:00 - 10415:00
+
+links, I actually spell out the URL
+
+## 10415:00 - 10455:00
+
+instead of making a hyperlink. What most
+
+## 10455:00 - 10495:00
+
+email software applications would allow
+
+## 10495:00 - 10545:00
+
+you to do is to type out the word free
+
+## 10545:00 - 10590:00
+
+ebook or download ebook or click here
+
+## 10590:00 - 10630:00
+
+and you can highlight those words and
+
+## 10630:00 - 10665:00
+
+turn those words in into a link that
+
+## 10665:00 - 10710:00
+
+goes to the ebook. And I try to avoid
+
+## 10710:00 - 10770:00
+
+doing hyperl text because hyperl text
+
+## 10770:00 - 10815:00
+
+makes your email look like a mass email
+
+## 10815:00 - 10840:00
+
+that's being sent out to a lot of
+
+## 10840:00 - 10875:00
+
+people. I want to make this email look
+
+## 10875:00 - 10915:00
+
+like I'm writing this one to one, like
+
+## 10915:00 - 10950:00
+
+it's a handwritten email. So, even
+
+## 10950:00 - 10985:00
+
+knowing I can certainly create that
+
+## 10985:00 - 11025:00
+
+hyperlink text, I'm going to actually
+
+## 11025:00 - 11060:00
+
+type out the URL and I'm going to make
+
+## 11060:00 - 11105:00
+
+that URL that's typed out the actual
+
+## 11105:00 - 11135:00
+
+hyperlink. So, it almost looks like a
+
+## 11135:00 - 11170:00
+
+copy and paste. And another thought in
+
+## 11170:00 - 11220:00
+
+that area, I also avoid doing any
+
+## 11220:00 - 11260:00
+
+formatting to my cold email messages
+
+## 11260:00 - 11300:00
+
+like highlighting any text, making any
+
+## 11300:00 - 11350:00
+
+text bold or italicized or including any
+
+## 11350:00 - 11400:00
+
+kind of borders. I like just plain text.
+
+## 11400:00 - 11435:00
+
+Now, email three, I'm actually going to
+
+## 11435:00 - 11490:00
+
+insert an additional email template, and
+
+## 11490:00 - 11525:00
+
+I'm going to associate this email with
+
+## 11525:00 - 11565:00
+
+our product building block. So you don't
+
+## 11565:00 - 11600:00
+
+necessarily have to follow this, but the
+
+## 11600:00 - 11645:00
+
+smart sales system has a sales simulator
+
+## 11645:00 - 11670:00
+
+product. And one of the great things
+
+## 11670:00 - 11705:00
+
+about that product is that it's very
+
+## 11705:00 - 11745:00
+
+unique. And so it's something unique for
+
+## 11745:00 - 11785:00
+
+us to talk about. And there's also a
+
+## 11785:00 - 11830:00
+
+free trial. So this allows us to create
+
+## 11830:00 - 11875:00
+
+a message without sounding like a
+
+## 11875:00 - 11900:00
+
+salesperson that's trying to push a
+
+## 11900:00 - 11935:00
+
+product. I can bring up the topic of
+
+## 11935:00 - 11970:00
+
+roleplaying, which should be really
+
+## 11970:00 - 12005:00
+
+interesting to the target audience that
+
+## 12005:00 - 12035:00
+
+we're communicating with. and then I'm
+
+## 12035:00 - 12070:00
+
+able to insert a link that actually
+
+## 12070:00 - 12110:00
+
+delivers value in the form of something
+
+## 12110:00 - 12140:00
+
+free for the prospect to try that they
+
+## 12140:00 - 12165:00
+
+might be interested in. So there's
+
+## 12165:00 - 12190:00
+
+probably not a whole lot for you to copy
+
+## 12190:00 - 12230:00
+
+on this email. But the main takeaway for
+
+## 12230:00 - 12290:00
+
+you is that the software can generate a
+
+## 12290:00 - 12340:00
+
+great six email series, but you by no
+
+## 12340:00 - 12370:00
+
+means have to stick with that. You can
+
+## 12370:00 - 12400:00
+
+use that as the foundation and the
+
+## 12400:00 - 12435:00
+
+starting place and build off of that.
+
+## 12435:00 - 12470:00
+
+You can add additional emails and then
+
+## 12470:00 - 12505:00
+
+what was email three, which is the
+
+## 12505:00 - 12545:00
+
+customer example email, becomes email
+
+## 12545:00 - 12580:00
+
+four. And so this is the email that's
+
+## 12580:00 - 12625:00
+
+generated by the software. And this
+
+## 12625:00 - 12660:00
+
+email starts to bring in multiple
+
+## 12660:00 - 12695:00
+
+different building blocks. And it's all
+
+## 12695:00 - 12725:00
+
+colorcoded here. So you can see what
+
+## 12725:00 - 12770:00
+
+this email is using, but it uses one of
+
+## 12770:00 - 12805:00
+
+the main value points as the subject
+
+## 12805:00 - 12835:00
+
+line. Then in the first email, we
+
+## 12835:00 - 12865:00
+
+mention the target audience and we
+
+## 12865:00 - 12900:00
+
+mention a pain point that they were
+
+## 12900:00 - 12940:00
+
+having trouble with. Then we mention the
+
+## 12940:00 - 12980:00
+
+product for this sales message that we
+
+## 12980:00 - 13015:00
+
+use to solve that painoint. And then we
+
+## 13015:00 - 13055:00
+
+mention two different value points. We
+
+## 13055:00 - 13095:00
+
+do a soft takeaway. And then we go for
+
+## 13095:00 - 13130:00
+
+the close of trying to close for the
+
+## 13130:00 - 13165:00
+
+appointment. And so here are just two
+
+## 13165:00 - 13210:00
+
+changes. We again, similar to a previous
+
+## 13210:00 - 13240:00
+
+email, we just tweaked the subject line
+
+## 13240:00 - 13270:00
+
+a little bit. And then similar to the
+
+## 13270:00 - 13300:00
+
+other emails, the only other change we
+
+## 13300:00 - 13335:00
+
+made was we inserted an ebook at the
+
+## 13335:00 - 13370:00
+
+bottom with a link to be clicked on.
+
+## 13370:00 - 13425:00
+
+Email five is what was email four, but
+
+## 13425:00 - 13450:00
+
+this is one of the standard emails
+
+## 13450:00 - 13480:00
+
+generated by the software. And this
+
+## 13480:00 - 13525:00
+
+email uses your pain questions. And so
+
+## 13525:00 - 13560:00
+
+basically, it just takes the pain
+
+## 13560:00 - 13595:00
+
+questions that you came up with and uses
+
+## 13595:00 - 13630:00
+
+those as the bullet points. And I just
+
+## 13630:00 - 13660:00
+
+want to point out real quick, we by no
+
+## 13660:00 - 13700:00
+
+means are sending these pain questions
+
+## 13700:00 - 13735:00
+
+hoping for the prospect to read our
+
+## 13735:00 - 13775:00
+
+email and respond with answers to all of
+
+## 13775:00 - 13800:00
+
+these different questions. These are
+
+## 13800:00 - 13835:00
+
+very open, thoughtprovoking questions. a
+
+## 13835:00 - 13865:00
+
+prospect would never respond with their
+
+## 13865:00 - 13905:00
+
+answers. More so, what this email is
+
+## 13905:00 - 13945:00
+
+designed to do is at this point, we've
+
+## 13945:00 - 13980:00
+
+sent a bunch of emails. So, now we're
+
+## 13980:00 - 14000:00
+
+just trying to let the prospect know
+
+## 14000:00 - 14035:00
+
+that basically, hey, we'd love to talk
+
+## 14035:00 - 14070:00
+
+to you if we had the chance to talk to
+
+## 14070:00 - 14095:00
+
+you. These are some of the questions we
+
+## 14095:00 - 14130:00
+
+would ask. If you were only going to
+
+## 14130:00 - 14180:00
+
+send one email to your prospect, this by
+
+## 14180:00 - 14225:00
+
+no means would be a good cold email.
+
+## 14225:00 - 14260:00
+
+This email serves a purpose towards the
+
+## 14260:00 - 14295:00
+
+end of your cold email campaign. And
+
+## 14295:00 - 14315:00
+
+basically what we're going to do is
+
+## 14315:00 - 14345:00
+
+we're going to dive into some of the
+
+## 14345:00 - 14380:00
+
+different features of our product. And
+
+## 14380:00 - 14425:00
+
+so we're going to focus first on sending
+
+## 14425:00 - 14470:00
+
+a product email that focuses on sales
+
+## 14470:00 - 14505:00
+
+training. And again, this template is
+
+## 14505:00 - 14530:00
+
+specific to us. So there's not a lot for
+
+## 14530:00 - 14565:00
+
+you to copy, but just to explain what we
+
+## 14565:00 - 14605:00
+
+did. One of the features of the smart
+
+## 14605:00 - 14655:00
+
+sales system is a training program and
+
+## 14655:00 - 14695:00
+
+sales methodology and training videos.
+
+## 14695:00 - 14735:00
+
+And then we introduce that feature of
+
+## 14735:00 - 14780:00
+
+our product with a link for the prospect
+
+## 14780:00 - 14825:00
+
+to click on to where they can access our
+
+## 14825:00 - 14860:00
+
+training program. And while yes, this is
+
+## 14860:00 - 14905:00
+
+mentioning our product, it is still us
+
+## 14905:00 - 14950:00
+
+providing value to the audience because
+
+## 14950:00 - 14990:00
+
+the link provides access to free
+
+## 14990:00 - 15040:00
+
+training videos. So that is email six.
+
+## 15040:00 - 15075:00
+
+We're going to send as email seven
+
+## 15075:00 - 15115:00
+
+another product email and this focuses
+
+## 15115:00 - 15155:00
+
+on another feature of the smart sales
+
+## 15155:00 - 15200:00
+
+system which is our email guesser tool.
+
+## 15200:00 - 15235:00
+
+So again, nothing for you to copy here,
+
+## 15235:00 - 15280:00
+
+but just letting you know. And in this
+
+## 15280:00 - 15320:00
+
+email, we also do provide a link for the
+
+## 15320:00 - 15355:00
+
+prospect to click on. And yes, while
+
+## 15355:00 - 15400:00
+
+this is a promotion for that feature of
+
+## 15400:00 - 15450:00
+
+the product, it is still in line with us
+
+## 15450:00 - 15495:00
+
+delivering value to the target audience
+
+## 15495:00 - 15540:00
+
+because the link goes to a 30-day free
+
+## 15540:00 - 15575:00
+
+trial where the prospect can actually
+
+## 15575:00 - 15610:00
+
+use the email guesser for free. So that
+
+## 15610:00 - 15675:00
+
+is email 7. And now email 8, we go back
+
+## 15675:00 - 15715:00
+
+to the software generated product
+
+## 15715:00 - 15755:00
+
+building block cold email template that
+
+## 15755:00 - 15795:00
+
+introduces the product and the features
+
+## 15795:00 - 15835:00
+
+and the differentiation. And we just
+
+## 15835:00 - 15870:00
+
+made some minor tweaks to the wording in
+
+## 15870:00 - 15910:00
+
+the first sentence and some minor tweaks
+
+## 15910:00 - 15945:00
+
+to the wording in the second sentence.
+
+## 15945:00 - 15970:00
+
+Nothing major there. Other than that,
+
+## 15970:00 - 16005:00
+
+we're basically going to be sending
+
+## 16005:00 - 16030:00
+
+something pretty close to the software
+
+## 16030:00 - 16070:00
+
+generated cold email template. And this
+
+## 16070:00 - 16125:00
+
+is email 8. And then email nine is a
+
+## 16125:00 - 16160:00
+
+standard cold email template in the
+
+## 16160:00 - 16200:00
+
+software generated series which is what
+
+## 16200:00 - 16235:00
+
+we would refer to as the last attempt
+
+## 16235:00 - 16270:00
+
+email. This is where we start to head in
+
+## 16270:00 - 16310:00
+
+the direction of walking away. So at
+
+## 16310:00 - 16340:00
+
+this point we've emailed the prospect a
+
+## 16340:00 - 16380:00
+
+lot. Hopefully we've called the prospect
+
+## 16380:00 - 16410:00
+
+many times and at this point if they're
+
+## 16410:00 - 16445:00
+
+receiving this we have been very
+
+## 16445:00 - 16480:00
+
+unsuccessful at getting a hold of this
+
+## 16480:00 - 16505:00
+
+person and we're going to start to walk
+
+## 16505:00 - 16540:00
+
+away. And before we do that we're going
+
+## 16540:00 - 16580:00
+
+to send one last email. And the message
+
+## 16580:00 - 16615:00
+
+basically uses the value points building
+
+## 16615:00 - 16660:00
+
+block again to reinforce what we've
+
+## 16660:00 - 16700:00
+
+already said, which is basically these
+
+## 16700:00 - 16735:00
+
+are the ways we help the people we work
+
+## 16735:00 - 16775:00
+
+with and just trying to check to see are
+
+## 16775:00 - 16805:00
+
+you sure you don't need that? And we're
+
+## 16805:00 - 16840:00
+
+basically going to send this exactly as
+
+## 16840:00 - 16880:00
+
+is without any changes. So, we made a
+
+## 16880:00 - 16910:00
+
+lot of changes. We added a lot of
+
+## 16910:00 - 16935:00
+
+emails. And I just want to point out
+
+## 16935:00 - 16980:00
+
+this is the six email series that's
+
+## 16980:00 - 17015:00
+
+generated by the software using your
+
+## 17015:00 - 17045:00
+
+building blocks. And this is what we
+
+## 17045:00 - 17090:00
+
+ended up with. We went from a six email
+
+## 17090:00 - 17150:00
+
+series to a 9 email series basically by
+
+## 17150:00 - 17185:00
+
+adding a few different emails. And the
+
+## 17185:00 - 17215:00
+
+key thing for you to take away from this
+
+## 17215:00 - 17255:00
+
+is that you don't have to just send six.
+
+## 17255:00 - 17290:00
+
+I mean, think of additional pieces of
+
+## 17290:00 - 17325:00
+
+information that you can share that are
+
+## 17325:00 - 17365:00
+
+either key to you telling your full
+
+## 17365:00 - 17405:00
+
+story or additional pieces of
+
+## 17405:00 - 17440:00
+
+information that you can share that are
+
+## 17440:00 - 17495:00
+
+of value to the prospect. and be open to
+
+## 17495:00 - 17540:00
+
+adding additional emails to your cold
+
+## 17540:00 - 17580:00
+
+email campaign. Now, what we need to do
+
+## 17580:00 - 17620:00
+
+is we need to actually create a cold
+
+## 17620:00 - 17670:00
+
+email campaign inside of Sales Scriptor.
+
+## 17670:00 - 17700:00
+
+And it's very easy to do. All I have to
+
+## 17700:00 - 17730:00
+
+do is I go to the CRM area of
+
+## 17730:00 - 17780:00
+
+Salescriptor. Go to email campaigns,
+
+## 17780:00 - 17825:00
+
+click add email campaign, and the first
+
+## 17825:00 - 17860:00
+
+thing I have to do is create a name for
+
+## 17860:00 - 17905:00
+
+the campaign. And one of the nice things
+
+## 17905:00 - 17945:00
+
+about Sales Scriptor is that I showed
+
+## 17945:00 - 17975:00
+
+you in the sales playbook that the
+
+## 17975:00 - 18025:00
+
+software generated that series of six
+
+## 18025:00 - 18065:00
+
+emails. And it's just real easy to bring
+
+## 18065:00 - 18115:00
+
+in that set of emails. All I have to do
+
+## 18115:00 - 18165:00
+
+is click on cold email thread here and
+
+## 18165:00 - 18200:00
+
+the software is going to load up all of
+
+## 18200:00 - 18245:00
+
+those standard email templates. And so
+
+## 18245:00 - 18275:00
+
+if I didn't want to make any changes, I
+
+## 18275:00 - 18305:00
+
+just could just hit save and I'm ready
+
+## 18305:00 - 18360:00
+
+to go with a six email cold email
+
+## 18360:00 - 18400:00
+
+series. But there are two things that I
+
+## 18400:00 - 18440:00
+
+have to do. I have to modify the
+
+## 18440:00 - 18475:00
+
+templates by adding those links and
+
+## 18475:00 - 18510:00
+
+modifying those subject lines and making
+
+## 18510:00 - 18555:00
+
+all those small details. And then I have
+
+## 18555:00 - 18605:00
+
+to add three additional emails to this
+
+## 18605:00 - 18645:00
+
+cold email campaign. So, let me do that
+
+## 18645:00 - 18705:00
+
+real fast.
+
+## 18705:00 - 18850:00
+
+[Music]
+
+## 18850:00 - 18890:00
+
+And now all I have to do is insert those
+
+## 18890:00 - 18930:00
+
+additional email templates. And all you
+
+## 18930:00 - 18975:00
+
+have to do is click this button, add an
+
+## 18975:00 - 19015:00
+
+email. And then it's very easy just to
+
+## 19015:00 - 19060:00
+
+insert or create a new email message
+
+## 19060:00 - 19100:00
+
+that will be part of that email series.
+
+## 19100:00 - 19135:00
+
+So let me just copy and paste those
+
+## 19135:00 - 19270:00
+
+email templates real quick.
+
+## 19270:00 - 19310:00
+
+All right. And so that is it. All the
+
+## 19310:00 - 19340:00
+
+changes have been made. And all I have
+
+## 19340:00 - 19385:00
+
+to do is click save. And we have now
+
+## 19385:00 - 19440:00
+
+created a cold email campaign for the
+
+## 19440:00 - 19480:00
+
+smart sales system. And if I want to
+
+## 19480:00 - 19520:00
+
+view what that campaign looks like, all
+
+## 19520:00 - 19550:00
+
+I have to do is click on this name right
+
+## 19550:00 - 19605:00
+
+here. And here is the email campaign
+
+## 19605:00 - 19640:00
+
+with all of the emails and all of the
+
+## 19640:00 - 19680:00
+
+emails that I added. And all we have to
+
+## 19680:00 - 19740:00
+
+do now is find contacts and add them to
+
+## 19740:00 - 19780:00
+
+this email campaign. And we will show
+
+## 19780:00 - 19825:00
+
+you how to do that in the next video
+
+## 19825:00 - 19845:00
+
+where we will show you how to use
+
+## 19845:00 - 19890:00
+
+LinkedIn to find prospects and then we
+
+## 19890:00 - 19935:00
+
+will use our email guesser to get their
+
+## 19935:00 - 19970:00
+
+email address and then add those
+
+## 19970:00 - 20025:00
+
+contacts to our CRM and to our email
+
+## 20025:00 - 20060:00
+
+campaign. Now, as part of this cold
+
+## 20060:00 - 20095:00
+
+email workshop video series, we are
+
+## 20095:00 - 20150:00
+
+offering a special offer. It is our cold
+
+## 20150:00 - 20185:00
+
+email jump start package. And we're
+
+## 20185:00 - 20230:00
+
+calling it a jump start package because
+
+## 20230:00 - 20265:00
+
+basically it includes everything you
+
+## 20265:00 - 20305:00
+
+need to get started and everything you
+
+## 20305:00 - 20335:00
+
+need to do exactly what we're showing
+
+## 20335:00 - 20370:00
+
+you in these videos. And in fact, we'll
+
+## 20370:00 - 20400:00
+
+do a lot of the work for you. And the
+
+## 20400:00 - 20435:00
+
+setup can be really quick. We could get
+
+## 20435:00 - 20465:00
+
+you going and get your emails going out
+
+## 20465:00 - 20495:00
+
+as soon as a couple days after
+
+## 20495:00 - 20525:00
+
+purchasing this. But what you'll get
+
+## 20525:00 - 20560:00
+
+with this package is you'll get a
+
+## 20560:00 - 20590:00
+
+six-month subscription to the
+
+## 20590:00 - 20630:00
+
+Salescriptor Pro subscription, which
+
+## 20630:00 - 20665:00
+
+includes all of the email automation
+
+## 20665:00 - 20705:00
+
+functionality you would need to launch
+
+## 20705:00 - 20745:00
+
+these email campaigns and send out these
+
+## 20745:00 - 20775:00
+
+emails. You'll also get a lot of
+
+## 20775:00 - 20810:00
+
+consulting with me. I will actually work
+
+## 20810:00 - 20845:00
+
+with you. I'll spend 2 hours with you
+
+## 20845:00 - 20885:00
+
+going through our standard sales message
+
+## 20885:00 - 20920:00
+
+brainstorming process that I explained
+
+## 20920:00 - 20970:00
+
+in the last video to create your sales
+
+## 20970:00 - 21005:00
+
+message strategy. And then I'll spend
+
+## 21005:00 - 21040:00
+
+about 5 hours working with you, taking
+
+## 21040:00 - 21075:00
+
+your sales message and taking the email
+
+## 21075:00 - 21110:00
+
+templates and the series that's created
+
+## 21110:00 - 21150:00
+
+by the software to create a more full
+
+## 21150:00 - 21195:00
+
+customtailored and set that up inside of
+
+## 21195:00 - 21230:00
+
+Sales Scriptor. And then the next step
+
+## 21230:00 - 21270:00
+
+will make more sense in the next video
+
+## 21270:00 - 21305:00
+
+and that is where we will provide 50
+
+## 21305:00 - 21355:00
+
+hours of LinkedIn searching looking for
+
+## 21355:00 - 21390:00
+
+your target contacts and then using our
+
+## 21390:00 - 21435:00
+
+email guessing tool to get their email
+
+## 21435:00 - 21475:00
+
+address and then add those contacts to
+
+## 21475:00 - 21515:00
+
+your sales scriptor CRM software where
+
+## 21515:00 - 21545:00
+
+they will be added to your email
+
+## 21545:00 - 21585:00
+
+campaign. And so the total cost for all
+
+## 21585:00 - 21635:00
+
+of this is $2,591.
+
+## 21635:00 - 21680:00
+
+And the promotional price for this
+
+## 21680:00 - 21735:00
+
+workshop is $1,591,
+
+## 21735:00 - 21785:00
+
+which is a savings of $1,000. So, I'll
+
+## 21785:00 - 21815:00
+
+include a link in the description to
+
+## 21815:00 - 21850:00
+
+purchase that. And if you sign up with
+
+## 21850:00 - 21890:00
+
+that link, you will save $1,000. And
+
+## 21890:00 - 21935:00
+
+this is a limited time offer. I only
+
+## 21935:00 - 21965:00
+
+mention that because we are putting this
+
+## 21965:00 - 22005:00
+
+as a video on YouTube and it will likely
+
+## 22005:00 - 22065:00
+
+be a video on YouTube for a long time.
+
+## 22065:00 - 22105:00
+
+And you know, pricing changes. So, most
+
+## 22105:00 - 22140:00
+
+likely down the road, if you see this
+
+## 22140:00 - 22165:00
+
+video and you want to purchase this
+
+## 22165:00 - 22205:00
+
+package, most likely we will probably
+
+## 22205:00 - 22245:00
+
+honor this promotional price, but things
+
+## 22245:00 - 22270:00
+
+change down the road. So, we will
+
+## 22270:00 - 22310:00
+
+reserve the right to not offer this
+
+## 22310:00 - 22350:00
+
+price indefinitely. So, that is pretty
+
+## 22350:00 - 22380:00
+
+much it. If you have any questions, the
+
+## 22380:00 - 22425:00
+
+best place to go is salescriptor.com. If
+
+## 22425:00 - 22450:00
+
+you want more information on the
+
+## 22450:00 - 22480:00
+
+Salescriptor software, there are plenty
+
+## 22480:00 - 22520:00
+
+of demo videos on our website. If you
+
+## 22520:00 - 22545:00
+
+want more tips, there are plenty of
+
+## 22545:00 - 22585:00
+
+how-to videos or ebooks you can download
+
+## 22585:00 - 22620:00
+
+for free. If you want to contact us,
+
+## 22620:00 - 22645:00
+
+that's the best place to go. You can get
+
+## 22645:00 - 22675:00
+
+our phone number, email address, there's
+
+## 22675:00 - 22710:00
+
+a chat window. Thanks for being here and
+
+## 22710:00 - 22735:00
+
+we'll see you on the next video. Have a
+
+## 22735:00 - 22850:00
+
+great day. Take care. Bye.
+
+## 22850:00+
+
+[Music]
+

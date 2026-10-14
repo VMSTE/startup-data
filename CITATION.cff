@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: startup-data
+message: If you use this dataset, please cite it.
+type: dataset
+authors:
+  - name: VMSTE
+    website: "https://vmste.org"
+repository-code: "https://github.com/VMSTE/startup-data"
+url: "https://github.com/VMSTE/startup-data"
+license: CC-BY-4.0
+date-released: "2026-10-14"
+abstract: >-
+  Public corpus of startup and business strategy: YouTube and podcast
+  transcripts, founder stories, and open company records, collected for
+  pattern analysis.
+keywords:
+  - startups
+  - founders
+  - transcripts
+  - venture
+  - sales
+  - dataset

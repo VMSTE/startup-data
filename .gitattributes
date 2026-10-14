@@ -1,0 +1,6 @@
+data/** linguist-vendored
+catalog/*.jsonl linguist-generated
+catalog/summary.json linguist-generated
+catalog/sources.json linguist-generated
+*.json linguist-vendored
+*.ndjson linguist-vendored

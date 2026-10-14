@@ -1,0 +1,20 @@
+[
+  {"name":"Yandex","region":"Russia, Moscow","niche":"Search, AI, Cloud, Ride-hailing","description":"[RU] Russia's Google — search, cloud, self-driving, fintech (Active)","stage":"series-b+","source":"cis-curated","teamSize":"20000+"},
+  {"name":"VK (Mail.ru Group)","region":"Russia, Moscow","niche":"Social Media, Gaming, EdTech","description":"[RU] Russia's largest social network, gaming, cloud (Active)","stage":"series-b+","source":"cis-curated","teamSize":"10000+"},
+  {"name":"Kaspersky Lab","region":"Russia, Moscow","niche":"Cybersecurity","description":"[RU] Global cybersecurity company, antivirus, endpoint protection (Active)","stage":"series-b+","source":"cis-curated","teamSize":"4000+"},
+  {"name":"Wildberries","region":"Russia, Moscow","niche":"E-Commerce, Marketplace","description":"[RU] Largest online retailer in Russia, marketplace model (Active)","stage":"series-b+","source":"cis-curated","teamSize":"100000+"},
+  {"name":"Ozon","region":"Russia, Moscow","niche":"E-Commerce, Marketplace, Fintech","description":"[RU] Russian Amazon, marketplace + fintech + logistics (Public)","stage":"series-b+","source":"cis-curated","teamSize":"40000+"},
+  {"name":"Tinkoff","region":"Russia, Moscow","niche":"Fintech, Neobank","description":"[RU] Online-only bank, largest neobank in Russia, ecosystem play (Active)","stage":"series-b+","source":"cis-curated","teamSize":"30000+"},
+  {"name":"HeadHunter","region":"Russia, Moscow","niche":"HR Tech, Job Search","description":"[RU] Largest job platform in Russia/CIS (Public, NASDAQ)","stage":"series-b+","source":"cis-curated","teamSize":"3000+"},
+  {"name":"Avito","region":"Russia, Moscow","niche":"Classifieds, Marketplace","description":"[RU] Russia's largest classifieds platform (Active)","stage":"series-b+","source":"cis-curated","teamSize":"5000+"},
+  {"name":"1C","region":"Russia, Moscow","niche":"ERP, Enterprise Software","description":"[RU] Dominant ERP/accounting platform in CIS market (Active)","stage":"series-b+","source":"cis-curated","teamSize":"10000+"},
+  {"name":"Positive Technologies","region":"Russia, Moscow","niche":"Cybersecurity","description":"[RU] Cybersecurity, vulnerability assessment, SIEM (Public, MOEX)","stage":"series-b+","source":"cis-curated","teamSize":"2000+"},
+  {"name":"SberTech","region":"Russia, Moscow","niche":"AI, Cloud, Fintech","description":"[RU] Sber's tech division — GigaChat AI, cloud, fintech (Active)","stage":"series-b+","source":"cis-curated","teamSize":"15000+"},
+  {"name":"VK Cloud (MCS)","region":"Russia, Moscow","niche":"Cloud, Infrastructure","description":"[RU] Cloud platform, IaaS/PaaS, VK ecosystem (Active)","stage":"series-b+","source":"cis-curated","teamSize":"1000+"},
+  {"name":"Dodo Pizza","region":"Russia, Syktyvkar","niche":"FoodTech, Franchise","description":"[RU] Tech-driven pizza chain, Dodo IS platform, 900+ locations globally (Active)","stage":"series-b+","source":"cis-curated","teamSize":"3000+"},
+  {"name":"inDrive","region":"Kazakhstan, Nur-Sultan","niche":"Ride-hailing, Marketplace","description":"[KZ] Ride-hailing unicorn, operates in 46 countries, negotiate-price model (Active)","stage":"series-b+","source":"cis-curated","teamSize":"3000+"},
+  {"name":"Kaspi.kz","region":"Kazakhstan, Almaty","niche":"Fintech, Super App","description":"[KZ] Kazakhstan super app — payments, marketplace, banking (Public, NASDAQ)","stage":"series-b+","source":"cis-curated","teamSize":"10000+"},
+  {"name":"Kolesa Group","region":"Kazakhstan, Almaty","niche":"Classifieds, Marketplace","description":"[KZ] Largest classifieds in Central Asia — Kolesa, Krisha, Market (Active)","stage":"series-b+","source":"cis-curated","teamSize":"1000+"},
+  {"name":"UZUM","region":"Uzbekistan, Tashkent","niche":"E-Commerce, Fintech","description":"[UZ] E-commerce + fintech super app in Uzbekistan (Active)","stage":"series-a","source":"cis-curated","teamSize":"2000+"},
+  {"name":"Payme","region":"Uzbekistan, Tashkent","niche":"Fintech, Payments","description":"[UZ] Leading payment app in Uzbekistan, UZUM ecosystem (Active)","stage":"series-a","source":"cis-curated","teamSize":"500+"}
+]

@@ -1,0 +1,29 @@
+name: Takedown request
+description: Ask us to remove a transcript, story, or other file you own
+title: "Takedown: "
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this if you are the author or rights holder of a file in the corpus
+        and you want it taken out. We will remove the file and its catalog row.
+  - type: input
+    id: path
+    attributes:
+      label: Path or original URL
+      description: A path under data/ or the YouTube / article URL.
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: How you are connected to the work
+      description: A channel URL, a byline, or another way we can see the claim.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Optional. Related files that should go with it.

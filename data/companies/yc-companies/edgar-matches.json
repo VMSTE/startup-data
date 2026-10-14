@@ -1,0 +1,146 @@
+[
+  {
+    "ycName": "Solidroad",
+    "ycWebsite": "https://solidroad.com",
+    "edgarName": "SOLIDROAD INC.",
+    "edgarRegion": "DE",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-31T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0002126127-26-000001:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "Phonely",
+    "ycWebsite": "https://phonely.ai",
+    "edgarName": "Phonely, Inc.",
+    "edgarRegion": "CA",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-30T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0002106702-26-000001:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "ZeroPath",
+    "ycWebsite": "https://zeropath.com",
+    "edgarName": "ZeroPath Corp.",
+    "edgarRegion": "CA",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-23T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0002123552-26-000001:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "Kiosk",
+    "ycWebsite": "https://www.kiosk.so/?utm_source=ycombinator&utm_medium=directory",
+    "edgarName": "KIOSK, INC.",
+    "edgarRegion": "DE",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-31T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0001099910-26-000141:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "Numerion Labs",
+    "ycWebsite": "https://www.numerionlabs.ai",
+    "edgarName": "Numerion Labs, Inc.",
+    "edgarRegion": "CA",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-19T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0001231919-26-000263:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "Pirouette Pharma",
+    "ycWebsite": "https://www.pirouettepharma.com/",
+    "edgarName": "PIROUETTE PHARMA INC.",
+    "edgarRegion": "NH",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-18T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0001870611-26-000004:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "Lantern",
+    "ycWebsite": "https://www.lantern.so",
+    "edgarName": "Lantern LLC",
+    "edgarRegion": "FL",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-16T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0002119000-26-000001:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "June",
+    "ycWebsite": "http://june.so",
+    "edgarName": "June, LLC",
+    "edgarRegion": "UT",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-12T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0002119405-26-000001:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  },
+  {
+    "ycName": "Spoken",
+    "ycWebsite": "http://www.spoken.io",
+    "edgarName": "Spoken, Inc.",
+    "edgarRegion": "DE",
+    "matchType": "entity-name",
+    "deals": [
+      {
+        "companyName": "Unknown",
+        "filedAt": "2026-03-05T00:00:00.000Z",
+        "formType": "D",
+        "accessionNo": "0002113557-26-000001:primary_doc.xml"
+      }
+    ],
+    "portfolioSectors": []
+  }
+]

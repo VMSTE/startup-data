@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-04-05T14:03:16.166Z",
+  "yc_total": 5784,
+  "yc_total_raw": 11942,
+  "yc_unique_domains": 5931,
+  "matches": {
+    "sec-edgar": {
+      "count": 9,
+      "companies": [
+        "June",
+        "Kiosk",
+        "Lantern",
+        "Numerion Labs",
+        "Phonely",
+        "Pirouette Pharma",
+        "Solidroad",
+        "Spoken",
+        "ZeroPath"
+      ]
+    },
+    "product-hunt": {
+      "count": 6,
+      "companies": [
+        "Atomic",
+        "Cohere",
+        "Ember",
+        "Fluently",
+        "Syncly",
+        "VoiceOS"
+      ]
+    },
+    "techcrunch-rss": {
+      "count": 4,
+      "companies": [
+        "Delve",
+        "LiteLLM",
+        "Replit",
+        "Y Combinator"
+      ]
+    },
+    "fund-holdings": {
+      "count": 0,
+      "companies": []
+    },
+    "openbook-vc": {
+      "count": 5,
+      "companies": [
+        "Benchmark",
+        "Compound",
+        "FundersClub",
+        "Haystack",
+        "Y Combinator"
+      ]
+    }
+  },
+  "enriched_companies": 23,
+  "enrichment_coverage": "0.40% have at least one additional data point"
+}

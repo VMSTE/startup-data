@@ -1,0 +1,33 @@
+[
+  {"name":"Careem","region":"UAE, Dubai","niche":"Ride-hailing, Super App","description":"[AE] MENA super app, acquired by Uber for $3.1B (Acquired)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Talabat","region":"UAE, Dubai","niche":"FoodTech, Delivery","description":"[AE] MENA food delivery, Delivery Hero subsidiary (Acquired)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Kitopi","region":"UAE, Dubai","niche":"FoodTech, Cloud Kitchen","description":"[AE] Cloud kitchen unicorn, operates in UAE/KSA/Kuwait/Qatar (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Tabby","region":"UAE, Dubai; KSA, Riyadh","niche":"Fintech, BNPL","description":"[AE] Buy-now-pay-later for MENA, $700M+ valuation (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Noon","region":"UAE, Dubai; KSA","niche":"E-Commerce","description":"[AE] MENA e-commerce, Mohamed Alabbar founded, Amazon competitor (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Anghami","region":"UAE, Abu Dhabi","niche":"Music, Streaming","description":"[AE] MENA music streaming, listed on NASDAQ via SPAC (Public)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Sarwa","region":"UAE, Dubai","niche":"Fintech, Robo-Advisory","description":"[AE] MENA robo-advisor, acquired by Tarabut Gateway (Acquired)","stage":"series-a","source":"cis-curated"},
+  {"name":"Hub71","region":"UAE, Abu Dhabi","niche":"Accelerator, Tech Hub","description":"[AE] Abu Dhabi global tech ecosystem, 400+ startups (Active)","stage":"seed","source":"cis-curated"},
+
+  {"name":"Stc Pay","region":"Saudi Arabia, Riyadh","niche":"Fintech, Payments","description":"[SA] Largest fintech in KSA, STC telecom subsidiary, unicorn (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Tamara","region":"Saudi Arabia, Riyadh","niche":"Fintech, BNPL","description":"[SA] BNPL for KSA/GCC, $340M+ raised, biggest Saudi fintech round (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Salla","region":"Saudi Arabia, Riyadh","niche":"E-Commerce, SaaS","description":"[SA] Arabic Shopify, 50K+ merchants, e-commerce platform (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Foodics","region":"Saudi Arabia, Riyadh","niche":"FoodTech, SaaS","description":"[SA] Restaurant management SaaS for MENA, 30K+ clients (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Lucidya","region":"Saudi Arabia, Riyadh","niche":"AI, Social Listening","description":"[SA] Arabic NLP/AI for social media analytics and CX (Active)","stage":"series-a","source":"cis-curated"},
+
+  {"name":"Mrsool","region":"Saudi Arabia, Riyadh","niche":"Delivery, Marketplace","description":"[SA] On-demand delivery super app in KSA (Active)","stage":"series-b+","source":"cis-curated"},
+
+  {"name":"Wiz","region":"Israel, Tel Aviv","niche":"Cybersecurity, Cloud","description":"[IL] Cloud security, acquired by Google for $32B — largest cybersecurity acquisition ever (Acquired)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Check Point","region":"Israel, Tel Aviv","niche":"Cybersecurity","description":"[IL] Network/cloud security pioneer, public company (Public)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Monday.com","region":"Israel, Tel Aviv","niche":"SaaS, Productivity","description":"[IL] Work management platform, NASDAQ listed (Public)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Fiverr","region":"Israel, Tel Aviv","niche":"Marketplace, Freelance","description":"[IL] Freelance services marketplace, NYSE listed (Public)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Wix","region":"Israel, Tel Aviv","niche":"SaaS, Web Development","description":"[IL] Website builder platform, NASDAQ listed (Public)","stage":"series-b+","source":"cis-curated"},
+  {"name":"IronSource","region":"Israel, Tel Aviv","niche":"AdTech, Gaming","description":"[IL] App monetization, merged with Unity Technologies (Acquired)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Papaya Global","region":"Israel, Tel Aviv","niche":"HR Tech, Payroll","description":"[IL] Global payroll platform, unicorn valuation (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Rapyd","region":"Israel, Tel Aviv","niche":"Fintech, Payments","description":"[IL] Fintech-as-a-service, $15B valuation, global payments infra (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Snyk","region":"Israel, Tel Aviv; US, Boston","niche":"Cybersecurity, DevSecOps","description":"[IL] Developer security platform, $7.4B valuation (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Via","region":"Israel, Tel Aviv; US, NYC","niche":"MobilityTech, Transit","description":"[IL] Public transit technology, on-demand shared rides (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"Innoviz","region":"Israel, Kfar Saba","niche":"DeepTech, LiDAR, Automotive","description":"[IL] LiDAR for autonomous vehicles, NASDAQ listed (Public)","stage":"series-b+","source":"cis-curated"},
+  {"name":"OurCrowd","region":"Israel, Jerusalem","niche":"VC, Crowdfunding","description":"[IL] Equity crowdfunding VC, $2.5B+ deployed, 400+ portfolio companies (Active)","stage":"series-b+","source":"cis-curated"},
+  {"name":"8200 EISP","region":"Israel, Tel Aviv","niche":"Accelerator","description":"[IL] Elite accelerator from Unit 8200 alumni, cybersecurity/AI focus (Active)","stage":"seed","source":"cis-curated"},
+  {"name":"Start-Up Nation Central","region":"Israel, Tel Aviv","niche":"Ecosystem Hub","description":"[IL] National startup database/hub, 10K+ companies tracked (Active)","stage":"seed","source":"cis-curated"}
+]
